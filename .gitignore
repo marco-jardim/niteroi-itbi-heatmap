@@ -1,0 +1,38 @@
+# Dados brutos (baixados pelo scraper — não versionar)
+data/
+
+# Cache de geocodificação (pode crescer muito)
+# Opcional: commitar para evitar re-geocodificar
+# data/itbi_niteroi/geocache.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
