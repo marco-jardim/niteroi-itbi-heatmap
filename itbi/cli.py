@@ -375,6 +375,43 @@ def cmd_normalizar_enderecos(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_street_map(args: argparse.Namespace) -> int:
+    """Gera mapa de ruas coloridas por score de valorização."""
+    from itbi.street_map import gerar_street_map
+    from itbi.consolidacao import carregar_e_consolidar
+    from itbi.config import DATA_DIR
+
+    geo_path = Path(args.input) if args.input else DATA_DIR / "consolidado_geo.csv"
+    if not geo_path.exists():
+        log.error("Arquivo geocodificado não encontrado: %s. Execute 'itbi geocodificar' primeiro.", geo_path)
+        return 1
+
+    insights_path = Path(args.insights) if args.insights else Path("docs/data/itbi_insights.json")
+
+    try:
+        import pandas as pd
+        df_geo = pd.read_csv(geo_path, encoding="utf-8-sig")
+    except UnicodeDecodeError:
+        import pandas as pd
+        df_geo = pd.read_csv(geo_path, encoding="latin-1")
+
+    output_path = Path(args.output) if args.output else Path("docs/street_map.html")
+
+    try:
+        gerar_street_map(
+            df_geo=df_geo,
+            insights_path=insights_path,
+            output_path=output_path,
+            score_col=args.score,
+            janela=args.janela,
+        )
+        log.info("Street map salvo: %s", output_path)
+    except (ValueError, FileNotFoundError, ImportError) as e:
+        log.error("Erro ao gerar street map: %s", e)
+        return 1
+    return 0
+
+
 # ===========================================================================
 # Subcomando: status
 # ===========================================================================
@@ -775,6 +812,41 @@ Exemplos:
         help="Fireworks AI API key (padrão: env FIREWORKS_API_KEY)",
     )
 
+    # --- street-map ---
+    p_sm = sub.add_parser(
+        "street-map",
+        help="Gera mapa de ruas coloridas por score de valorização",
+    )
+    p_sm.add_argument(
+        "--input",
+        metavar="CSV",
+        help="CSV geocodificado (padrão: data/itbi_niteroi/consolidado_geo.csv)",
+    )
+    p_sm.add_argument(
+        "--insights",
+        metavar="JSON",
+        help="JSON de insights (padrão: docs/data/itbi_insights.json)",
+    )
+    p_sm.add_argument(
+        "--output",
+        metavar="PATH",
+        default="docs/street_map.html",
+        help="Caminho de saída do HTML (padrão: docs/street_map.html)",
+    )
+    p_sm.add_argument(
+        "--score",
+        choices=["score_valorizacao", "score_joia_escondida"],
+        default="score_valorizacao",
+        help="Score a usar para colorir as ruas (padrão: score_valorizacao)",
+    )
+    p_sm.add_argument(
+        "--janela",
+        type=int,
+        choices=[12, 24, 36],
+        default=36,
+        help="Janela temporal em meses (padrão: 36)",
+    )
+
     return parser
 
 
@@ -794,6 +866,7 @@ _HANDLER_MAP: dict[str, Callable[[argparse.Namespace], int]] = {
     "status": cmd_status,
     "limpar": cmd_limpar,
     "normalizar-enderecos": cmd_normalizar_enderecos,
+    "street-map": cmd_street_map,
 }
 
 
