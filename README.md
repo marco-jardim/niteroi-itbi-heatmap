@@ -1,8 +1,13 @@
 # niteroi-itbi-heatmap
 
+[![Workflow: update](https://img.shields.io/badge/workflow-update.yml-blue)](.github/workflows/update.yml)
+
 Mapa de calor dos valores de transações imobiliárias em Niterói/RJ, baseado nos dados públicos de ITBI da Secretaria Municipal de Fazenda.
 
-**[Ver mapa →](https://seu-usuario.github.io/niteroi-itbi-heatmap)**
+**[🗺 Ver mapa local (docs/index.html) →](docs/index.html)**
+
+URL pública no GitHub Pages (após publicar no seu repositório):
+`https://<owner>.github.io/niteroi-itbi-heatmap`
 
 ---
 
@@ -29,36 +34,66 @@ https://www.fazenda.niteroi.rj.gov.br/site/dados-das-transacoes-imobiliarias/
 # Instalar dependências
 pip install -r requirements.txt
 
-# Executar pipeline completo
-python scripts/scraper.py
+# Pipeline completo (descobrir → baixar → consolidar → geocodificar → mapa)
+python -m itbi run
+
+# Etapas individuais (útil para re-executar apenas parte do pipeline)
+python -m itbi descobrir          # lista URLs dos CSVs disponíveis
+python -m itbi baixar             # faz download dos CSVs anuais
+python -m itbi consolidar         # une CSVs em consolidado.csv
+python -m itbi geocodificar       # geocodifica via Nominatim (com cache)
+python -m itbi geocodificar --geocoder geocodebr  # usa geocodebr (R) em lote
+python -m itbi run --geocoder auto  # tenta geocodebr, cai para Nominatim
+python -m itbi mapa               # gera docs/index.html e itbi_geo.json
+
+# Inspecionar estado dos artefatos
+python -m itbi status
 ```
 
-O script:
-1. Descobre dinamicamente os CSVs na página da Fazenda
+O pipeline:
+1. Descobre dinamicamente os CSVs na página da Fazenda (com fallback hardcoded)
 2. Faz download (com cache local — não re-baixa se já existir)
 3. Consolida e limpa os dados
-4. Geocodifica via Nominatim/OSM (com cache em `data/itbi_niteroi/geocache.csv`)
-5. Gera `docs/index.html` (heatmap) e `docs/data/itbi_geo.json`
+4. Geocodifica via Nominatim/OSM ou geocodebr (R), com cache incremental em `data/itbi_niteroi/geocache.csv`
+5. Gera `docs/index.html` (heatmap interativo) e `docs/data/itbi_geo.json`
 
-A geocodificação respeita o rate limit de 1 req/s do Nominatim. Para ~500 logradouros únicos, espere ~10 minutos na primeira execução. Execuções subsequentes usam o cache.
+A geocodificação com Nominatim respeita o rate limit de 1 req/s. Para ~500 logradouros únicos, espere ~10 minutos na primeira execução. Execuções subsequentes usam o cache e são instantâneas.
+
+Para usar `geocodebr`, é necessário ter `Rscript` no PATH e o pacote R instalado:
+
+```bash
+Rscript -e "install.packages('geocodebr', repos='https://cloud.r-project.org')"
+```
 
 ## Estrutura
 
 ```
 niteroi-itbi-heatmap/
-  scripts/
-    scraper.py          # pipeline completo
-  docs/
-    index.html          # heatmap (GitHub Pages)
+  itbi/                       # pacote Python (CLI + pipeline)
+    __main__.py               # python -m itbi
+    cli.py                    # subcomandos: run, descobrir, baixar, ...
+    config.py                 # constantes e caminhos centralizados
+    descoberta.py             # etapa 1: descoberta dinâmica de URLs
+    download.py               # etapa 2: download de CSVs com cache
+    consolidacao.py           # etapa 3: limpeza e consolidação
+    geocodificacao.py         # etapa 4: geocodificação Nominatim
+    heatmap.py                # etapa 5: geração do mapa Folium
+  .github/
+    workflows/
+      update.yml              # automação mensal (GitHub Actions)
+  docs/                       # GitHub Pages (versionado)
+    index.html                # heatmap interativo
     data/
-      itbi_geo.json     # dados pré-processados
-  data/                 # não versionado (.gitignore)
+      itbi_geo.json           # dados pré-processados
+  data/                       # cache local — NÃO versionado (.gitignore)
     itbi_niteroi/
       transacoes_imobiliarias_YYYY.csv
       consolidado.csv
       consolidado_geo.csv
-      geocache.csv
-  PLAN.md               # plano de implementação
+      geocache.csv            # cache de geocodificação — nunca deletar
+  tests/                      # suite de testes (pytest)
+  PLAN.md                     # arquitetura e roadmap
+  pyproject.toml
   requirements.txt
 ```
 
@@ -72,12 +107,17 @@ niteroi-itbi-heatmap/
 
 ## Publicação
 
-O mapa é gerado localmente e o `docs/` é commitado e servido pelo GitHub Pages.
-Não há backend — tudo é HTML/JS estático.
+O mapa é servido pelo GitHub Pages a partir do diretório `docs/` — sem backend,
+tudo é HTML/JS estático.
 
-Para atualizar:
+**Automação mensal:** o workflow [`.github/workflows/update.yml`](.github/workflows/update.yml)
+executa todo dia 1 do mês às 06:00 UTC, roda o pipeline completo e commita
+`docs/` apenas quando houver dados novos. Se não houver mudanças, o job encerra
+com sucesso e registra "no changes" no log.
+
+Para atualizar manualmente:
 ```bash
-python scripts/scraper.py
+python -m itbi run
 git add docs/
 git commit -m "update: heatmap AAAA-MM-DD"
 git push
