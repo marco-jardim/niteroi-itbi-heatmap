@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "niteroi-itbi-heatmap"
+version = "0.1.0"
+description = "Pipeline de coleta, geocodificação e visualização do ITBI de Niterói."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "pandas>=2.0.0",
+    "folium>=0.15.0",
+    "geopy>=2.4.0",
+    "tqdm>=4.66.0",
+]
+
+[project.scripts]
+# CLI unificado — disponível após `pip install -e .`
+# Implementação do itbi/cli.py pendente (Fase 2 do PLAN).
+itbi = "itbi.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["itbi*"]

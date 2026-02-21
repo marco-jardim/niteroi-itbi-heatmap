@@ -1,0 +1,87 @@
+name: Update ITBI Heatmap
+
+# ── Triggers ────────────────────────────────────────────────────────────────
+on:
+  schedule:
+    - cron: "0 6 1 * *"   # dia 1 de cada mês às 06:00 UTC
+  workflow_dispatch:        # execução manual via GitHub UI / API
+
+# ── Jobs ────────────────────────────────────────────────────────────────────
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # necessário para git push dos artefatos docs/
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        # GITHUB_TOKEN com contents:write é suficiente para o push final.
+        # Não são necessários secrets adicionais.
+
+      # ── 2. Python ───────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip          # cache automático do pip entre execuções
+
+      # ── 3. Dependências ─────────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. Geocache (actions/cache — Opção A do PLAN.md §5.2) ──────────
+      #
+      # Estratégia:
+      #   • key   = geocache-<run_id>  →  sempre único → salva cache novo ao fim
+      #   • restore-keys = geocache-   →  recupera o cache mais recente de runs anteriores
+      #
+      # Resultado: cada execução herda o geocache do mês anterior e salva o
+      # cache atualizado (apenas endereços novos são geocodificados).
+      # O diretório data/ nunca entra no histórico git — regra do .gitignore respeitada.
+      - name: Restore geocache
+        id: geocache-restore
+        uses: actions/cache@v4
+        with:
+          path: data/itbi_niteroi/geocache.csv
+          key: geocache-${{ github.run_id }}
+          restore-keys: |
+            geocache-
+
+      # ── 5. Pipeline ──────────────────────────────────────────────────────
+      #
+      # Erros técnicos (rede, schema, parse) encerram o job com exit ≠ 0.
+      # Não há swallowing de exceções — o comportamento padrão de "falha → job falha".
+      - name: Run ITBI pipeline
+        run: python -m itbi run
+
+      # ── 6. Detectar mudanças em docs/ ───────────────────────────────────
+      #
+      # Fazemos `git add docs/` antes de checar para capturar tanto arquivos
+      # modificados (já rastreados) quanto novos (untracked).
+      # O diff --cached compara o índice com HEAD → detecta qualquer alteração.
+      - name: Stage docs/ and detect changes
+        id: diff
+        run: |
+          git add docs/
+          git diff --cached --quiet \
+            && echo "changed=false" >> "$GITHUB_OUTPUT" \
+            || echo "changed=true"  >> "$GITHUB_OUTPUT"
+
+      # ── 7a. Publicar — apenas quando há mudanças ─────────────────────────
+      - name: Commit and push updated docs
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "auto: update heatmap $(date -u +%Y-%m-%d)"
+          git push
+
+      # ── 7b. Sem mudanças — log explícito, job encerra com sucesso ────────
+      - name: No changes to publish
+        if: steps.diff.outputs.changed == 'false'
+        run: |
+          echo "docs/ unchanged — no new ITBI data published this cycle."
+          echo "Pipeline completed successfully with no updates to commit."
