@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ITBI Niterói — Insights de Valorização</title>
+<style>
+:root {
+  --blue-900: #1e3a5f;
+  --blue-600: #2563eb;
+  --blue-100: #dbeafe;
+  --green-700: #15803d;
+  --green-100: #dcfce7;
+  --amber-700: #b45309;
+  --amber-100: #fef3c7;
+  --red-700: #b91c1c;
+  --red-100: #fee2e2;
+  --gray-50: #f9fafb;
+  --gray-100: #f3f4f6;
+  --gray-200: #e5e7eb;
+  --gray-300: #d1d5db;
+  --gray-500: #6b7280;
+  --gray-700: #374151;
+  --gray-900: #111827;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: var(--gray-50); color: var(--gray-900); line-height: 1.5;
+}
+.container { max-width: 1100px; margin: 0 auto; padding: 20px 16px; }
+header {
+  background: var(--blue-900); color: #fff; padding: 24px 0;
+  border-bottom: 4px solid var(--blue-600);
+}
+header .container { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+header h1 { font-size: 22px; font-weight: 700; }
+header p { font-size: 13px; opacity: .85; }
+nav a { color: var(--blue-100); text-decoration: none; font-size: 13px; margin-left: 16px; }
+nav a:hover { text-decoration: underline; }
+
+/* Filtros */
+.filters {
+  display: flex; gap: 12px; flex-wrap: wrap; align-items: end;
+  background: #fff; border: 1px solid var(--gray-200); border-radius: 8px;
+  padding: 16px; margin: 20px 0;
+}
+.filter-group { display: flex; flex-direction: column; gap: 4px; }
+.filter-group label {
+  font-size: 11px; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .04em; color: var(--gray-500);
+}
+.filter-group select {
+  padding: 6px 10px; border: 1px solid var(--gray-300); border-radius: 4px;
+  background: #fff; font-size: 13px; cursor: pointer; min-width: 150px;
+}
+.filter-group select:hover { border-color: var(--blue-600); }
+
+/* Stats cards */
+.stats-row {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px; margin: 16px 0;
+}
+.stat-card {
+  background: #fff; border: 1px solid var(--gray-200); border-radius: 8px;
+  padding: 14px 16px;
+}
+.stat-card .label { font-size: 11px; color: var(--gray-500); text-transform: uppercase; font-weight: 700; }
+.stat-card .value { font-size: 22px; font-weight: 700; color: var(--blue-900); margin-top: 4px; }
+.stat-card .sub { font-size: 11px; color: var(--gray-500); margin-top: 2px; }
+
+/* Table */
+.table-wrap {
+  background: #fff; border: 1px solid var(--gray-200); border-radius: 8px;
+  overflow-x: auto; margin: 20px 0;
+}
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+thead { background: var(--gray-100); }
+th {
+  padding: 10px 12px; text-align: left; font-weight: 700; font-size: 11px;
+  text-transform: uppercase; letter-spacing: .04em; color: var(--gray-500);
+  border-bottom: 2px solid var(--gray-200); cursor: pointer; white-space: nowrap;
+  user-select: none;
+}
+th:hover { color: var(--blue-600); }
+th .sort-arrow { font-size: 9px; margin-left: 4px; }
+td {
+  padding: 8px 12px; border-bottom: 1px solid var(--gray-100);
+  white-space: nowrap;
+}
+tr:hover td { background: var(--blue-100); }
+.rank-cell { font-weight: 700; color: var(--blue-600); text-align: center; width: 40px; }
+
+/* Badges */
+.badge {
+  display: inline-block; padding: 2px 8px; border-radius: 10px;
+  font-size: 11px; font-weight: 600;
+}
+.badge-alta { background: var(--green-100); color: var(--green-700); }
+.badge-media { background: var(--amber-100); color: var(--amber-700); }
+.badge-baixa { background: var(--red-100); color: var(--red-700); }
+
+/* Score bar */
+.score-bar {
+  display: inline-flex; align-items: center; gap: 6px; min-width: 100px;
+}
+.score-bar .bar {
+  height: 6px; border-radius: 3px; background: var(--gray-200);
+  flex: 1; position: relative; overflow: hidden;
+}
+.score-bar .bar .fill {
+  height: 100%; border-radius: 3px; background: var(--blue-600);
+  transition: width .3s ease;
+}
+.score-bar .num { font-weight: 700; font-size: 12px; min-width: 32px; text-align: right; }
+
+/* Transparency section */
+.transparency {
+  background: #fff; border: 1px solid var(--gray-200); border-radius: 8px;
+  padding: 20px 24px; margin: 24px 0;
+}
+.transparency h2 {
+  font-size: 16px; color: var(--blue-900); margin-bottom: 12px;
+  padding-bottom: 8px; border-bottom: 2px solid var(--blue-600);
+}
+.transparency h3 { font-size: 14px; color: var(--gray-700); margin: 16px 0 6px; }
+.transparency p, .transparency li { font-size: 13px; color: var(--gray-700); }
+.transparency ul { padding-left: 20px; margin: 6px 0; }
+.transparency code {
+  background: var(--gray-100); padding: 1px 5px; border-radius: 3px;
+  font-size: 12px; font-family: 'SFMono-Regular', Consolas, monospace;
+}
+.formula-box {
+  background: var(--gray-100); border: 1px solid var(--gray-200);
+  border-radius: 6px; padding: 12px 16px; margin: 8px 0;
+  font-family: 'SFMono-Regular', Consolas, monospace; font-size: 12px;
+  line-height: 1.7; overflow-x: auto;
+}
+
+/* Loading / Empty */
+.loading { text-align: center; padding: 40px; color: var(--gray-500); }
+.empty-state { text-align: center; padding: 40px; color: var(--gray-500); font-size: 14px; }
+
+footer {
+  text-align: center; padding: 20px; font-size: 12px; color: var(--gray-500);
+  border-top: 1px solid var(--gray-200); margin-top: 30px;
+}
+
+@media (max-width: 600px) {
+  .filters { flex-direction: column; }
+  .filter-group select { min-width: auto; width: 100%; }
+  header h1 { font-size: 18px; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div>
+      <h1>Insights ITBI Niteroi</h1>
+      <p>Analise de valorizacao e joias escondidas — dados publicos da SMF Niteroi</p>
+    </div>
+    <nav>
+      <a href="index.html">Mapa</a>
+      <a href="insights.html">Insights</a>
+    </nav>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- Filtros -->
+  <div class="filters">
+    <div class="filter-group">
+      <label for="f-nivel">Nivel</label>
+      <select id="f-nivel">
+        <option value="">Todos</option>
+        <option value="bairro">Bairro</option>
+        <option value="logradouro">Logradouro</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="f-janela">Janela temporal</label>
+      <select id="f-janela">
+        <option value="">Todas</option>
+        <option value="12">12 meses</option>
+        <option value="24">24 meses</option>
+        <option value="36">36 meses</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="f-selo">Confianca</label>
+      <select id="f-selo">
+        <option value="">Todas</option>
+        <option value="alta">Alta</option>
+        <option value="media">Media</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="f-view">Visualizar</label>
+      <select id="f-view">
+        <option value="joia">Joias escondidas</option>
+        <option value="valorizacao">Valorizacao</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats-row">
+    <div class="stat-card">
+      <div class="label">Regioes analisadas</div>
+      <div class="value" id="s-total">-</div>
+      <div class="sub" id="s-elegivel">- elegiveis</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Score medio</div>
+      <div class="value" id="s-score-med">-</div>
+      <div class="sub" id="s-score-tipo">-</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Melhor regiao</div>
+      <div class="value" id="s-top-regiao" style="font-size:14px">-</div>
+      <div class="sub" id="s-top-score">-</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Formula</div>
+      <div class="value" id="s-versao" style="font-size:16px">-</div>
+      <div class="sub" id="s-gerado">-</div>
+    </div>
+  </div>
+
+  <!-- Ranking table -->
+  <div class="table-wrap">
+    <table id="ranking-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th data-col="regiao">Regiao <span class="sort-arrow"></span></th>
+          <th data-col="bairro">Bairro <span class="sort-arrow"></span></th>
+          <th data-col="score" data-default-sort="desc">Score <span class="sort-arrow"></span></th>
+          <th data-col="trend_pct">Tendencia <span class="sort-arrow"></span></th>
+          <th data-col="confianca">Confianca <span class="sort-arrow"></span></th>
+          <th data-col="q">Transacoes <span class="sort-arrow"></span></th>
+          <th>Selo</th>
+        </tr>
+      </thead>
+      <tbody id="ranking-body">
+        <tr><td colspan="8" class="loading">Carregando dados...</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Transparencia -->
+  <div class="transparency">
+    <h2>Transparencia metodologica</h2>
+
+    <h3>Score de valorizacao (0-100)</h3>
+    <div class="formula-box">
+      raw_val = 0.55 * trend_norm + 0.25 * liquidez_norm + 0.20 * estabilidade_norm<br>
+      score_valorizacao = 100 * raw_val * confianca
+    </div>
+    <p>Mede o potencial de valorizacao combinando tendencia de precos, liquidez (volume de transacoes) e estabilidade (baixa volatilidade).</p>
+
+    <h3>Score joia escondida (0-100)</h3>
+    <div class="formula-box">
+      raw_joia = 0.40 * trend_norm + 0.35 * desconto_norm + 0.15 * liq_delta_norm + 0.10 * estabilidade_norm<br>
+      score_joia_escondida = 100 * raw_joia * confianca
+    </div>
+    <p>Identifica regioes com preco abaixo do benchmark e tendencia positiva — potenciais oportunidades de valorizacao futura.</p>
+
+    <h3>Confianca do insight</h3>
+    <div class="formula-box">
+      confianca = 0.50 * min(1, q/30) + 0.30 * (periodos_ativos/janela) + 0.20 * c_geo
+    </div>
+    <ul>
+      <li><span class="badge badge-alta">alta</span> <code>&ge; 0.75</code>: amostra robusta, cobertura temporal ampla, geocoding preciso</li>
+      <li><span class="badge badge-media">media</span> <code>0.55 &ndash; 0.74</code>: dados suficientes mas com limitacoes</li>
+      <li><span class="badge badge-baixa">baixa</span> <code>&lt; 0.55</code>: insight preliminar — interpretar com cautela</li>
+    </ul>
+
+    <h3>Regras de elegibilidade</h3>
+    <ul>
+      <li>Minimo de 20 transacoes na janela temporal</li>
+      <li>Pelo menos 2 periodos (anos) com dados</li>
+      <li>Confianca minima de 0.55</li>
+      <li>Para joias escondidas: tendencia positiva <b>e</b> desconto positivo vs benchmark</li>
+    </ul>
+
+    <h3>Limitacoes conhecidas</h3>
+    <ul>
+      <li>Dados anuais agregados por logradouro — <b>nao</b> representam transacoes individuais</li>
+      <li>Deflacao IPCA via tabela estatica (2020-2024); pode divergir levemente do indice oficial</li>
+      <li>Janelas temporais adaptadas para dados anuais (12m &rarr; 2 anos, 24m &rarr; 3 anos, 36m &rarr; todo o historico)</li>
+      <li>Geocoding com fallback em 3 niveis afeta precisao espacial</li>
+      <li>Resultados <b>nao</b> constituem recomendacao de investimento</li>
+    </ul>
+  </div>
+
+</div>
+
+<footer>
+  ITBI Niteroi &mdash; Dados publicos da Secretaria Municipal de Fazenda.
+  Gerado automaticamente pelo pipeline <code>itbi</code>.
+</footer>
+
+<script>
+(function () {
+  'use strict';
+
+  var DATA = null;
+  var sortCol = 'score';
+  var sortDir = 'desc';
+
+  /* ── Fetch data ── */
+  fetch('data/itbi_insights.json')
+    .then(function (r) { return r.json(); })
+    .then(function (d) { DATA = d; render(); })
+    .catch(function (e) {
+      document.getElementById('ranking-body').innerHTML =
+        '<tr><td colspan="8" class="empty-state">Erro ao carregar dados: ' + e.message + '</td></tr>';
+    });
+
+  /* ── Filtrar insights ── */
+  function filteredInsights() {
+    if (!DATA || !DATA.insights) return [];
+    var nivel = document.getElementById('f-nivel').value;
+    var janela = document.getElementById('f-janela').value;
+    var selo = document.getElementById('f-selo').value;
+    var view = document.getElementById('f-view').value;
+
+    return DATA.insights.filter(function (r) {
+      if (nivel && r.nivel !== nivel) return false;
+      if (janela && String(r.janela_meses) !== janela) return false;
+      if (selo && r.selo !== selo) return false;
+      if (view === 'joia' && !r.elegivel_joia) return false;
+      if (view === 'valorizacao' && !r.elegivel_valorizacao) return false;
+      return true;
+    });
+  }
+
+  function scoreKey() {
+    return document.getElementById('f-view').value === 'joia'
+      ? 'score_joia_escondida' : 'score_valorizacao';
+  }
+
+  /* ── Render ── */
+  function render() {
+    var rows = filteredInsights();
+    var sk = scoreKey();
+
+    /* Sort */
+    rows.sort(function (a, b) {
+      var va = sortCol === 'score' ? (a[sk] || 0) : (a[sortCol] || 0);
+      var vb = sortCol === 'score' ? (b[sk] || 0) : (b[sortCol] || 0);
+      if (typeof va === 'string') va = va.toLowerCase();
+      if (typeof vb === 'string') vb = vb.toLowerCase();
+      var cmp = va < vb ? -1 : va > vb ? 1 : 0;
+      return sortDir === 'desc' ? -cmp : cmp;
+    });
+
+    /* Stats */
+    var meta = DATA ? DATA.metadata : {};
+    document.getElementById('s-versao').textContent = meta.versao_formula || '-';
+    document.getElementById('s-gerado').textContent = meta.gerado_em
+      ? new Date(meta.gerado_em).toLocaleDateString('pt-BR') : '-';
+
+    document.getElementById('s-total').textContent = rows.length.toLocaleString('pt-BR');
+
+    var elegivel = rows.filter(function (r) {
+      return sk === 'score_joia_escondida' ? r.elegivel_joia : r.elegivel_valorizacao;
+    }).length;
+    document.getElementById('s-elegivel').textContent = elegivel + ' elegiveis';
+
+    var avgScore = rows.length
+      ? rows.reduce(function (s, r) { return s + (r[sk] || 0); }, 0) / rows.length
+      : 0;
+    document.getElementById('s-score-med').textContent = avgScore.toFixed(1);
+    document.getElementById('s-score-tipo').textContent =
+      sk === 'score_joia_escondida' ? 'Joia escondida' : 'Valorizacao';
+
+    var top = rows[0];
+    document.getElementById('s-top-regiao').textContent = top ? top.regiao : '-';
+    document.getElementById('s-top-score').textContent = top
+      ? 'Score: ' + (top[sk] || 0).toFixed(1) : '-';
+
+    /* Table */
+    var tbody = document.getElementById('ranking-body');
+    if (!rows.length) {
+      tbody.innerHTML = '<tr><td colspan="8" class="empty-state">Nenhum resultado com os filtros selecionados.</td></tr>';
+      return;
+    }
+
+    var html = '';
+    rows.forEach(function (r, i) {
+      var score = (r[sk] || 0);
+      var trend = r.trend_pct || 0;
+      var trendStr = (trend >= 0 ? '+' : '') + (trend * 100).toFixed(1) + '%';
+      var trendColor = trend >= 0 ? 'var(--green-700)' : 'var(--red-700)';
+      var conf = (r.confianca || 0);
+      var seloClass = 'badge-' + (r.selo || 'baixa');
+
+      html += '<tr>'
+        + '<td class="rank-cell">' + (i + 1) + '</td>'
+        + '<td>' + (r.regiao || '-') + '</td>'
+        + '<td>' + (r.bairro || '-') + '</td>'
+        + '<td><div class="score-bar">'
+        +   '<span class="num">' + score.toFixed(1) + '</span>'
+        +   '<div class="bar"><div class="fill" style="width:' + Math.min(score, 100) + '%"></div></div>'
+        + '</div></td>'
+        + '<td style="color:' + trendColor + ';font-weight:600">' + trendStr + '</td>'
+        + '<td>' + (conf * 100).toFixed(0) + '%</td>'
+        + '<td>' + (r.q || 0) + '</td>'
+        + '<td><span class="badge ' + seloClass + '">' + (r.selo || '-') + '</span></td>'
+        + '</tr>';
+    });
+    tbody.innerHTML = html;
+
+    /* Sort arrows */
+    document.querySelectorAll('#ranking-table th[data-col]').forEach(function (th) {
+      var arrow = th.querySelector('.sort-arrow');
+      if (th.getAttribute('data-col') === sortCol) {
+        arrow.textContent = sortDir === 'desc' ? ' \u25BC' : ' \u25B2';
+      } else {
+        arrow.textContent = '';
+      }
+    });
+  }
+
+  /* ── Event listeners ── */
+  ['f-nivel', 'f-janela', 'f-selo', 'f-view'].forEach(function (id) {
+    document.getElementById(id).addEventListener('change', render);
+  });
+
+  document.querySelectorAll('#ranking-table th[data-col]').forEach(function (th) {
+    th.addEventListener('click', function () {
+      var col = this.getAttribute('data-col');
+      if (col === sortCol) {
+        sortDir = sortDir === 'desc' ? 'asc' : 'desc';
+      } else {
+        sortCol = col;
+        sortDir = this.getAttribute('data-default-sort') || 'asc';
+      }
+      render();
+    });
+  });
+})();
+</script>
+</body>
+</html>
