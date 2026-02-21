@@ -1,5 +1,5 @@
 # Dados brutos (baixados pelo scraper — não versionar)
-data/
+/data/
 
 # Cache de geocodificação (pode crescer muito)
 # Opcional: commitar para evitar re-geocodificar
