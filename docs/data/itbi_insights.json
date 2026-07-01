@@ -17,7 +17,7 @@
       "2023": 1.049,
       "2024": 1.0
     },
-    "gerado_em": "2026-06-01T09:30:12.445031+00:00",
+    "gerado_em": "2026-07-01T09:12:12.927574+00:00",
     "total_insights": 5663,
     "total_elegiveis_valorizacao": 724,
     "total_elegiveis_joia": 172
@@ -141120,8 +141120,8 @@
       "cv": 0.4716,
       "estabilidade_norm": 0.0,
       "periodos_ativos": 2,
-      "nivel_geo": "bairro",
-      "confianca": 0.3433,
+      "nivel_geo": "endereco",
+      "confianca": 0.4033,
       "selo": "baixa",
       "preco_ref": 33673.73,
       "desconto_pct": -3.3204,
