@@ -22,8 +22,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9080131,
-    "LON": -43.0483418,
+    "LAT": -22.9092986,
+    "LON": -43.0470729,
     "BAIRRO": "Badu",
     "NOME DO LOGRADOURO": "Rua 1 (Quinta Dos Arcos)",
     "PESO_NORM": 0.0006855269814939335,
@@ -88,8 +88,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051133,
-    "LON": -43.0547163,
+    "LAT": -22.9061493,
+    "LON": -43.0597318,
     "BAIRRO": "Badu",
     "NOME DO LOGRADOURO": "Rua Joao Baptista Da Costa",
     "PESO_NORM": 0.01704210282751326,
@@ -165,8 +165,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8813567,
-    "LON": -43.0878735,
+    "LAT": -22.8810721,
+    "LON": -43.0735012,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "Rod Br 101",
     "PESO_NORM": 0.06345350030027418,
@@ -484,8 +484,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9087752,
-    "LON": -43.0759713,
+    "LAT": -22.910279,
+    "LON": -43.0794883,
     "BAIRRO": "Cachoeira",
     "NOME DO LOGRADOURO": "Rua Albino Pereira",
     "PESO_NORM": 0.0008569087268674169,
@@ -935,8 +935,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9558669,
-    "LON": -43.0630278,
+    "LAT": -22.9553408,
+    "LON": -43.0635666,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "Rua Luiz Pereira Dos Santos",
     "PESO_NORM": 0.007908043418145267,
@@ -946,8 +946,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9591961,
-    "LON": -43.0529487,
+    "LAT": -22.9566833,
+    "LON": -43.0534079,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "Rua Marcos Otavio Valadao",
     "PESO_NORM": 0.002986938990794996,
@@ -1276,12 +1276,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8888011,
-    "LON": -43.1208462,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Rua Andrade Neves,Gal",
     "PESO_NORM": 0.008299797776344315,
-    "NIVEL_GEO": "bairro",
+    "NIVEL_GEO": "endereco",
     "ANO DO PAGAMENTO DO ITBI": 2020,
     "QUANTIDADE DE TRANSAÇÕES": 24,
     "valor_medio": null
@@ -1430,8 +1430,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8931908,
-    "LON": -43.1197532,
+    "LAT": -22.892319,
+    "LON": -43.1199055,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Rua Luiz Leopoldo Fernandes Pinheiro",
     "PESO_NORM": 0.0006928718889554049,
@@ -2816,8 +2816,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8821258,
-    "LON": -43.0830981,
+    "LAT": -22.8838545,
+    "LON": -43.0831831,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "Rua Sa Barreto",
     "PESO_NORM": 0.0009218427973956751,
@@ -3212,8 +3212,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051376,
-    "LON": -43.1066589,
+    "LAT": -22.9018743,
+    "LON": -43.1031045,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Domingues De Sa",
     "PESO_NORM": 0.055484985298452895,
@@ -3256,8 +3256,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9042445,
-    "LON": -43.1095123,
+    "LAT": -22.9063813,
+    "LON": -43.107241,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Gaviao Peixoto",
     "PESO_NORM": 0.026729493786665812,
@@ -3267,8 +3267,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9009808,
-    "LON": -43.1026141,
+    "LAT": -22.9033495,
+    "LON": -43.1005208,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Geraldo Martins,Dr",
     "PESO_NORM": 0.0028449369487167178,
@@ -3333,8 +3333,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9109594,
-    "LON": -43.1039171,
+    "LAT": -22.9106116,
+    "LON": -43.1026655,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Joaquim Tavora",
     "PESO_NORM": 0.04695059908730157,
@@ -3366,8 +3366,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9076438,
-    "LON": -43.1041079,
+    "LAT": -22.9097871,
+    "LON": -43.1017856,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Lemos Cunha",
     "PESO_NORM": 0.026264375187816012,
@@ -3421,8 +3421,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9075401,
-    "LON": -43.1061414,
+    "LAT": -22.9100522,
+    "LON": -43.1088653,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Mariz E Barros",
     "PESO_NORM": 0.05170991968564761,
@@ -3454,8 +3454,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9007458,
-    "LON": -43.1128918,
+    "LAT": -22.9001263,
+    "LON": -43.1122957,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Miguel De Frias",
     "PESO_NORM": 0.04322547423751364,
@@ -3531,8 +3531,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8994394,
-    "LON": -43.1084094,
+    "LAT": -22.911341,
+    "LON": -43.1059963,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Paulo Cesar,Dr",
     "PESO_NORM": 0.051181371086950055,
@@ -3828,8 +3828,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9028494,
-    "LON": -43.1206545,
+    "LAT": -22.9036848,
+    "LON": -43.1214959,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "Rua Justina Bulhoes",
     "PESO_NORM": 0.003585631738529482,
@@ -4169,8 +4169,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9522787,
-    "LON": -43.0263995,
+    "LAT": -22.9479322,
+    "LON": -43.0307505,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua 18 (Maravista)",
     "PESO_NORM": 0.0019096823055902434,
@@ -4565,8 +4565,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9619279,
-    "LON": -43.0343226,
+    "LAT": -22.9556668,
+    "LON": -43.0245294,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua Scylla Souza Ribeiro",
     "PESO_NORM": 0.0061021694595552855,
@@ -4620,8 +4620,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.902251,
-    "LON": -43.0680528,
+    "LAT": -22.9028034,
+    "LON": -43.0663257,
     "BAIRRO": "Ititioca",
     "NOME DO LOGRADOURO": "Rua B",
     "PESO_NORM": 0.00020810640509637268,
@@ -4829,8 +4829,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9445439,
-    "LON": -43.0334487,
+    "LAT": -22.9448328,
+    "LON": -43.0295069,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Rua 35 (Maravista)",
     "PESO_NORM": 0.0031338376296865533,
@@ -4840,8 +4840,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9448328,
-    "LON": -43.0295069,
+    "LAT": -22.9445439,
+    "LON": -43.0334487,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Rua 6 (Maravista)",
     "PESO_NORM": 0.0002937972777831144,
@@ -5434,8 +5434,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9087147,
-    "LON": -43.0545607,
+    "LAT": -22.9131391,
+    "LON": -43.0700468,
     "BAIRRO": "Pendotiba",
     "NOME DO LOGRADOURO": "Rua A",
     "PESO_NORM": 0.000612077662048155,
@@ -5676,8 +5676,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9380898,
-    "LON": -43.0667026,
+    "LAT": -22.9363944,
+    "LON": -43.06489,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Rua Altamiro De Castro",
     "PESO_NORM": 0.004382476084747896,
@@ -5918,8 +5918,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9492596,
-    "LON": -43.0571524,
+    "LAT": -22.9501363,
+    "LON": -43.0563793,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Rua Geografo Amora",
     "PESO_NORM": 0.00794170766507481,
@@ -6226,8 +6226,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9377986,
-    "LON": -43.0775463,
+    "LAT": -22.9390853,
+    "LON": -43.0790491,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Rua Planeta Terra",
     "PESO_NORM": 0.0006732854282529704,
@@ -6479,8 +6479,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8845633,
-    "LON": -43.1264313,
+    "LAT": -22.8843656,
+    "LON": -43.1272097,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "Pca Azevedo Cruz,Dr",
     "PESO_NORM": 0.000244831064819262,
@@ -6490,8 +6490,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8842087,
-    "LON": -43.1273891,
+    "LAT": -22.8842459,
+    "LON": -43.1274094,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "Rua Amapa",
     "PESO_NORM": 0.0034276349074696677,
@@ -6534,8 +6534,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8826211,
-    "LON": -43.1261209,
+    "LAT": -22.8826109,
+    "LON": -43.1261439,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "Rua Silvestre Monaco",
     "PESO_NORM": 0.0017138174537348339,
@@ -6930,8 +6930,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8992726,
-    "LON": -43.1027107,
+    "LAT": -22.8999776,
+    "LON": -43.1018236,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "Rua Rosa,Sta",
     "PESO_NORM": 0.007952996947889158,
@@ -7117,8 +7117,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8759315,
-    "LON": -43.107817,
+    "LAT": -22.8725664,
+    "LON": -43.1051247,
     "BAIRRO": "Santana",
     "NOME DO LOGRADOURO": "Rua Benjamin Constant",
     "PESO_NORM": 0.0011690683589950825,
@@ -7260,8 +7260,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9409818,
-    "LON": -43.0482177,
+    "LAT": -22.9415987,
+    "LON": -43.0512606,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "Rua Delfina De Jesus",
     "PESO_NORM": 0.0018117498796625386,
@@ -7337,8 +7337,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9388458,
-    "LON": -43.0441254,
+    "LAT": -22.9402642,
+    "LON": -43.0438677,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "Rua Juriti",
     "PESO_NORM": 0.0016893343472529077,
@@ -7447,12 +7447,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8987419,
-    "LON": -43.1294787,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Rua Andrade Neves,Gal",
     "PESO_NORM": 0.00671812710638627,
-    "NIVEL_GEO": "bairro",
+    "NIVEL_GEO": "endereco",
     "ANO DO PAGAMENTO DO ITBI": 2020,
     "QUANTIDADE DE TRANSAÇÕES": 11,
     "valor_medio": null
@@ -7491,8 +7491,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9012655,
-    "LON": -43.1314786,
+    "LAT": -22.9044483,
+    "LON": -43.1300404,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Rua Passo Da Patria",
     "PESO_NORM": 0.011221423820538244,
@@ -7623,8 +7623,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9167334,
-    "LON": -43.092523,
+    "LAT": -22.9196129,
+    "LON": -43.0919246,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Rua Arariboia",
     "PESO_NORM": 0.012192173263499702,
@@ -7645,8 +7645,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9152373,
-    "LON": -43.0892223,
+    "LAT": -22.9134307,
+    "LON": -43.0894943,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Rua Caiapos",
     "PESO_NORM": 0.002130030263927579,
@@ -7711,8 +7711,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9145213,
-    "LON": -43.083353,
+    "LAT": -22.9132565,
+    "LON": -43.0842457,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Rua Guaianazes",
     "PESO_NORM": 0.0017995083264215755,
@@ -8679,12 +8679,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9068976,
-    "LON": -43.0970423,
+    "LAT": -22.9049942,
+    "LON": -43.0980978,
     "BAIRRO": "Vital Brasil",
     "NOME DO LOGRADOURO": "Rua Jose Botelho,Mto",
     "PESO_NORM": 0.006038895368129609,
-    "NIVEL_GEO": "endereco",
+    "NIVEL_GEO": "bairro",
     "ANO DO PAGAMENTO DO ITBI": 2020,
     "QUANTIDADE DE TRANSAÇÕES": 9,
     "valor_medio": null
@@ -8822,8 +8822,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051133,
-    "LON": -43.0547163,
+    "LAT": -22.9061493,
+    "LON": -43.0597318,
     "BAIRRO": "Badu",
     "NOME DO LOGRADOURO": "Rua Joao Baptista Da Costa",
     "PESO_NORM": 0.015277335710909154,
@@ -8866,8 +8866,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8938193,
-    "LON": -43.1114737,
+    "LAT": -22.8949337,
+    "LON": -43.1123039,
     "BAIRRO": "Bairro De Fatima",
     "NOME DO LOGRADOURO": "Rua B",
     "PESO_NORM": 0.0007344931944577859,
@@ -9031,8 +9031,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8813567,
-    "LON": -43.0878735,
+    "LAT": -22.8810721,
+    "LON": -43.0735012,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "Rod Br 101",
     "PESO_NORM": 0.03144092848912152,
@@ -9350,8 +9350,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9087752,
-    "LON": -43.0759713,
+    "LAT": -22.910279,
+    "LON": -43.0794883,
     "BAIRRO": "Cachoeira",
     "NOME DO LOGRADOURO": "Rua Albino Pereira",
     "PESO_NORM": 0.0009670827060360848,
@@ -9812,8 +9812,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9605204,
-    "LON": -43.0538589,
+    "LAT": -22.961033,
+    "LON": -43.0544961,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "Rua Jorge Picanco Siqueira",
     "PESO_NORM": 0.009058749398312693,
@@ -9867,8 +9867,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9558669,
-    "LON": -43.0630278,
+    "LAT": -22.9553408,
+    "LON": -43.0635666,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "Rua Luiz Pereira Dos Santos",
     "PESO_NORM": 0.010087039870553594,
@@ -9878,8 +9878,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9591961,
-    "LON": -43.0529487,
+    "LAT": -22.9566833,
+    "LON": -43.0534079,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "Rua Marcos Otavio Valadao",
     "PESO_NORM": 0.018638988964690413,
@@ -10197,12 +10197,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8888011,
-    "LON": -43.1208462,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Rua Andrade Neves,Gal",
     "PESO_NORM": 0.010063919248947386,
-    "NIVEL_GEO": "bairro",
+    "NIVEL_GEO": "endereco",
     "ANO DO PAGAMENTO DO ITBI": 2021,
     "QUANTIDADE DE TRANSAÇÕES": 25,
     "valor_medio": null
@@ -10252,12 +10252,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8900373,
-    "LON": -43.1241096,
+    "LAT": -22.8888011,
+    "LON": -43.1208462,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Rua Deodoro,Mal",
     "PESO_NORM": 0.000991565812518011,
-    "NIVEL_GEO": "endereco",
+    "NIVEL_GEO": "bairro",
     "ANO DO PAGAMENTO DO ITBI": 2021,
     "QUANTIDADE DE TRANSAÇÕES": 3,
     "valor_medio": null
@@ -10384,8 +10384,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8931908,
-    "LON": -43.1197532,
+    "LAT": -22.892319,
+    "LON": -43.1199055,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Rua Luiz Leopoldo Fernandes Pinheiro",
     "PESO_NORM": 0.003643086293476831,
@@ -11110,8 +11110,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9444546,
-    "LON": -43.0134259,
+    "LAT": -22.9428195,
+    "LON": -43.0174818,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "Rua Dr. Renato Pereira Machado",
     "PESO_NORM": 0.0008079425139035645,
@@ -11473,8 +11473,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8804251,
-    "LON": -43.0838186,
+    "LAT": -22.88289,
+    "LON": -43.0795566,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "Rua 4",
     "PESO_NORM": 0.001113981344927642,
@@ -11924,8 +11924,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8821258,
-    "LON": -43.0830981,
+    "LAT": -22.8838545,
+    "LON": -43.0831831,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "Rua Sa Barreto",
     "PESO_NORM": 0.003304540899213209,
@@ -12331,8 +12331,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051376,
-    "LON": -43.1066589,
+    "LAT": -22.9018743,
+    "LON": -43.1031045,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Domingues De Sa",
     "PESO_NORM": 0.08265729357396347,
@@ -12364,8 +12364,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9042445,
-    "LON": -43.1095123,
+    "LAT": -22.9063813,
+    "LON": -43.107241,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Gaviao Peixoto",
     "PESO_NORM": 0.04231525100003876,
@@ -12375,8 +12375,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9009808,
-    "LON": -43.1026141,
+    "LAT": -22.9033495,
+    "LON": -43.1005208,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Geraldo Martins,Dr",
     "PESO_NORM": 0.00046517902315659776,
@@ -12441,8 +12441,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9109594,
-    "LON": -43.1039171,
+    "LAT": -22.9106116,
+    "LON": -43.1026655,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Joaquim Tavora",
     "PESO_NORM": 0.12031979293981092,
@@ -12474,8 +12474,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9076438,
-    "LON": -43.1041079,
+    "LAT": -22.9097871,
+    "LON": -43.1017856,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Lemos Cunha",
     "PESO_NORM": 0.022790466817365802,
@@ -12518,8 +12518,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9075401,
-    "LON": -43.1061414,
+    "LAT": -22.9100522,
+    "LON": -43.1088653,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Mariz E Barros",
     "PESO_NORM": 0.07222456408970862,
@@ -12551,8 +12551,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9007458,
-    "LON": -43.1128918,
+    "LAT": -22.9001263,
+    "LON": -43.1122957,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Miguel De Frias",
     "PESO_NORM": 0.07520398020534114,
@@ -12639,8 +12639,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8994394,
-    "LON": -43.1084094,
+    "LAT": -22.911341,
+    "LON": -43.1059963,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Paulo Cesar,Dr",
     "PESO_NORM": 0.0809040109684648,
@@ -12881,8 +12881,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9028494,
-    "LON": -43.1206545,
+    "LAT": -22.9036848,
+    "LON": -43.1214959,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "Rua Justina Bulhoes",
     "PESO_NORM": 0.00877107282370074,
@@ -13486,8 +13486,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9438414,
-    "LON": -43.0465389,
+    "LAT": -22.9420557,
+    "LON": -43.0470425,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua Antonio,Sto",
     "PESO_NORM": 0.000489662129638524,
@@ -13541,8 +13541,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9523841,
-    "LON": -43.0235404,
+    "LAT": -22.9524708,
+    "LON": -43.0235646,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua Engenho Do Mato",
     "PESO_NORM": 0.0018851991991083172,
@@ -13816,8 +13816,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9619279,
-    "LON": -43.0343226,
+    "LAT": -22.9556668,
+    "LON": -43.0245294,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua Scylla Souza Ribeiro",
     "PESO_NORM": 0.019564450242808583,
@@ -14124,8 +14124,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9448328,
-    "LON": -43.0295069,
+    "LAT": -22.9445439,
+    "LON": -43.0334487,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Rua 6 (Maravista)",
     "PESO_NORM": 0.001101739791686679,
@@ -14443,8 +14443,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9465906,
-    "LON": -43.0275761,
+    "LAT": -22.9453891,
+    "LON": -43.0271605,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Rua Marins Coutinho (Maravista)",
     "PESO_NORM": 0.0010038073657589741,
@@ -14619,8 +14619,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8829234,
-    "LON": -43.0298674,
+    "LAT": -22.8805596,
+    "LON": -43.0285514,
     "BAIRRO": "Maria Paula",
     "NOME DO LOGRADOURO": "Rua 4",
     "PESO_NORM": 0.00034276349074696677,
@@ -14839,8 +14839,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9036275,
-    "LON": -43.0655122,
+    "LAT": -22.9123857,
+    "LON": -43.0573288,
     "BAIRRO": "Pendotiba",
     "NOME DO LOGRADOURO": "Rua 2",
     "PESO_NORM": 0.0008813918333493431,
@@ -14883,8 +14883,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9087147,
-    "LON": -43.0545607,
+    "LAT": -22.9131391,
+    "LON": -43.0700468,
     "BAIRRO": "Pendotiba",
     "NOME DO LOGRADOURO": "Rua A",
     "PESO_NORM": 0.0014200201759517195,
@@ -15345,8 +15345,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9492596,
-    "LON": -43.0571524,
+    "LAT": -22.9501363,
+    "LON": -43.0563793,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Rua Geografo Amora",
     "PESO_NORM": 0.01287811400949318,
@@ -15686,8 +15686,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9377986,
-    "LON": -43.0775463,
+    "LAT": -22.9390853,
+    "LON": -43.0790491,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Rua Planeta Terra",
     "PESO_NORM": 0.0009303580463131955,
@@ -15884,19 +15884,19 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8812366,
-    "LON": -43.1282056,
+    "LAT": -22.8836361,
+    "LON": -43.1270516,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "Pca Alberto Santos Lima,Dr",
     "PESO_NORM": 0.0018851991991083172,
-    "NIVEL_GEO": "bairro",
+    "NIVEL_GEO": "endereco",
     "ANO DO PAGAMENTO DO ITBI": 2021,
     "QUANTIDADE DE TRANSAÇÕES": 1,
     "valor_medio": null
   },
   {
-    "LAT": -22.8845633,
-    "LON": -43.1264313,
+    "LAT": -22.8843656,
+    "LON": -43.1272097,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "Pca Azevedo Cruz,Dr",
     "PESO_NORM": 2.4483106481926196e-11,
@@ -15950,12 +15950,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8812366,
-    "LON": -43.1282056,
+    "LAT": -22.8841828,
+    "LON": -43.1276509,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "Rua Paulo Ferraz",
     "PESO_NORM": 0.0017627836666986862,
-    "NIVEL_GEO": "bairro",
+    "NIVEL_GEO": "endereco",
     "ANO DO PAGAMENTO DO ITBI": 2021,
     "QUANTIDADE DE TRANSAÇÕES": 1,
     "valor_medio": null
@@ -16434,8 +16434,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8992726,
-    "LON": -43.1027107,
+    "LAT": -22.8999776,
+    "LON": -43.1018236,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "Rua Rosa,Sta",
     "PESO_NORM": 0.03731808101296715,
@@ -16478,8 +16478,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8957047,
-    "LON": -43.0969627,
+    "LAT": -22.8955726,
+    "LON": -43.0946229,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "Rua Vista Alegre",
     "PESO_NORM": 0.0023993444352287674,
@@ -16665,8 +16665,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8735843,
-    "LON": -43.107571,
+    "LAT": -22.8737796,
+    "LON": -43.1070537,
     "BAIRRO": "Santana",
     "NOME DO LOGRADOURO": "Rua B",
     "PESO_NORM": 0.0010160489189999372,
@@ -16676,8 +16676,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8759315,
-    "LON": -43.107817,
+    "LAT": -22.8725664,
+    "LON": -43.1051247,
     "BAIRRO": "Santana",
     "NOME DO LOGRADOURO": "Rua Benjamin Constant",
     "PESO_NORM": 0.0008569087268674169,
@@ -16863,8 +16863,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9384586,
-    "LON": -43.0431484,
+    "LAT": -22.9388537,
+    "LON": -43.0433935,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "Rua Eduardo,Sto",
     "PESO_NORM": 0.0028155572454215128,
@@ -16995,8 +16995,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.869147,
-    "LON": -43.1104319,
+    "LAT": -22.8744682,
+    "LON": -43.1102368,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Av Do Contorno",
     "PESO_NORM": 0.0063656076853008114,
@@ -17006,12 +17006,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8987419,
-    "LON": -43.1294787,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Rua Andrade Neves,Gal",
     "PESO_NORM": 0.005854745731692013,
-    "NIVEL_GEO": "bairro",
+    "NIVEL_GEO": "endereco",
     "ANO DO PAGAMENTO DO ITBI": 2021,
     "QUANTIDADE DE TRANSAÇÕES": 9,
     "valor_medio": null
@@ -17072,8 +17072,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9012655,
-    "LON": -43.1314786,
+    "LAT": -22.9044483,
+    "LON": -43.1300404,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Rua Passo Da Patria",
     "PESO_NORM": 0.010326974436492001,
@@ -17094,8 +17094,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8991651,
-    "LON": -43.1269827,
+    "LAT": -22.8991768,
+    "LON": -43.1269836,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Trv Manoel Continentino",
     "PESO_NORM": 0.0005386283426023764,
@@ -17226,8 +17226,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9167334,
-    "LON": -43.092523,
+    "LAT": -22.9196129,
+    "LON": -43.0919246,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Rua Arariboia",
     "PESO_NORM": 0.004602824018602125,
@@ -17259,8 +17259,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9152373,
-    "LON": -43.0892223,
+    "LAT": -22.9134307,
+    "LON": -43.0894943,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Rua Caiapos",
     "PESO_NORM": 0.0006882813309731503,
@@ -17611,8 +17611,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8883111,
-    "LON": -43.1109673,
+    "LAT": -22.8897114,
+    "LON": -43.1138523,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "Rua Indigena",
     "PESO_NORM": 0.002374861328746841,
@@ -17644,8 +17644,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8824001,
-    "LON": -43.1104387,
+    "LAT": -22.8839799,
+    "LON": -43.1098375,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "Travessa Luiz Paulino",
     "PESO_NORM": 0.08319359526247376,
@@ -17754,8 +17754,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9003196,
-    "LON": -43.0601187,
+    "LAT": -22.900903,
+    "LON": -43.0522751,
     "BAIRRO": "Sape",
     "NOME DO LOGRADOURO": "Trv F",
     "PESO_NORM": 0.0005386283426023764,
@@ -18766,12 +18766,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9068976,
-    "LON": -43.0970423,
+    "LAT": -22.9049942,
+    "LON": -43.0980978,
     "BAIRRO": "Vital Brasil",
     "NOME DO LOGRADOURO": "Rua Jose Botelho,Mto",
     "PESO_NORM": 0.010612236854389303,
-    "NIVEL_GEO": "endereco",
+    "NIVEL_GEO": "bairro",
     "ANO DO PAGAMENTO DO ITBI": 2021,
     "QUANTIDADE DE TRANSAÇÕES": 11,
     "valor_medio": null
@@ -18876,8 +18876,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051133,
-    "LON": -43.0547163,
+    "LAT": -22.9061493,
+    "LON": -43.0597318,
     "BAIRRO": "Badu",
     "NOME DO LOGRADOURO": "R Joao Baptista Da Costa",
     "PESO_NORM": 0.013600365650710003,
@@ -18887,8 +18887,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9080131,
-    "LON": -43.0483418,
+    "LAT": -22.9092986,
+    "LON": -43.0470729,
     "BAIRRO": "Badu",
     "NOME DO LOGRADOURO": "Rua 1 (Quinta Dos Arcos)",
     "PESO_NORM": 0.0034766010959504136,
@@ -18942,8 +18942,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051133,
-    "LON": -43.0547163,
+    "LAT": -22.9061493,
+    "LON": -43.0597318,
     "BAIRRO": "Badu",
     "NOME DO LOGRADOURO": "Rua Joao Baptista Da Costa",
     "PESO_NORM": 0.007254344548527158,
@@ -19140,8 +19140,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8725664,
-    "LON": -43.1051247,
+    "LAT": -22.874297,
+    "LON": -43.1067873,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "R Benjamin Constant",
     "PESO_NORM": 0.002826985567797572,
@@ -19162,8 +19162,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.859218,
-    "LON": -43.1008511,
+    "LAT": -22.8709962,
+    "LON": -43.1047043,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "R Castrioto,Gal",
     "PESO_NORM": 0.0015978633803723804,
@@ -19536,8 +19536,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9087752,
-    "LON": -43.0759713,
+    "LAT": -22.9118776,
+    "LON": -43.0813889,
     "BAIRRO": "Cachoeira",
     "NOME DO LOGRADOURO": "R Albino Pereira",
     "PESO_NORM": 0.00122415532409631,
@@ -20119,8 +20119,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9591961,
-    "LON": -43.0529487,
+    "LAT": -22.9566833,
+    "LON": -43.0534079,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "Rua Marcos Otavio Valadao",
     "PESO_NORM": 0.007344931944577859,
@@ -20328,8 +20328,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8870683,
-    "LON": -43.1247034,
+    "LAT": -22.8862501,
+    "LON": -43.124919,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Av Visconde Do Rio Branco",
     "PESO_NORM": 0.09778384476076958,
@@ -20438,8 +20438,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8970626,
-    "LON": -43.1219745,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Andrade Neves,Gal",
     "PESO_NORM": 0.0018843056636541529,
@@ -20471,8 +20471,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.888006,
-    "LON": -43.1203311,
+    "LAT": -22.93902,
+    "LON": -43.0786696,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Caxias, Mq De",
     "PESO_NORM": 0.00122415532409631,
@@ -20504,8 +20504,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8951256,
-    "LON": -43.1136555,
+    "LAT": -22.895494,
+    "LON": -43.113102,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Euzebio De Queiros",
     "PESO_NORM": 0.00047742057639756086,
@@ -20526,8 +20526,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9089887,
-    "LON": -43.0615656,
+    "LAT": -22.9070307,
+    "LON": -43.0536196,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Francisco Da Cruz,Csl",
     "PESO_NORM": 0.0009548411527951217,
@@ -20537,8 +20537,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8925468,
-    "LON": -43.114287,
+    "LAT": -22.8927114,
+    "LON": -43.118026,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Gomes Machado,Cel",
     "PESO_NORM": 0.0004260060527855158,
@@ -20592,8 +20592,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8931908,
-    "LON": -43.1197532,
+    "LAT": -22.892319,
+    "LON": -43.1199055,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Luiz Leopoldo Fernandes Pinheiro",
     "PESO_NORM": 0.0023871028819878043,
@@ -20603,8 +20603,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.889644,
-    "LON": -43.1197662,
+    "LAT": -22.8898672,
+    "LON": -43.1221924,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Marechal Deodoro",
     "PESO_NORM": 0.000979324259277048,
@@ -20680,8 +20680,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8893437,
-    "LON": -43.1191881,
+    "LAT": -22.8848794,
+    "LON": -43.1200366,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Sepetiba, Vsc",
     "PESO_NORM": 0.005949394875108066,
@@ -20691,8 +20691,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8957904,
-    "LON": -43.1225196,
+    "LAT": -22.8969027,
+    "LON": -43.1233209,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Teffe,Alm",
     "PESO_NORM": 0.0014104494847968693,
@@ -20735,12 +20735,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8888011,
-    "LON": -43.1208462,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Rua Andrade Neves,Gal",
     "PESO_NORM": 0.0028812273760630436,
-    "NIVEL_GEO": "bairro",
+    "NIVEL_GEO": "endereco",
     "ANO DO PAGAMENTO DO ITBI": 2022,
     "QUANTIDADE DE TRANSAÇÕES": 9,
     "valor_medio": null
@@ -20801,12 +20801,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8900373,
-    "LON": -43.1241096,
+    "LAT": -22.8888011,
+    "LON": -43.1208462,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Rua Deodoro,Mal",
     "PESO_NORM": 0.0012976046435420885,
-    "NIVEL_GEO": "endereco",
+    "NIVEL_GEO": "bairro",
     "ANO DO PAGAMENTO DO ITBI": 2022,
     "QUANTIDADE DE TRANSAÇÕES": 2,
     "valor_medio": null
@@ -20900,8 +20900,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8931908,
-    "LON": -43.1197532,
+    "LAT": -22.892319,
+    "LON": -43.1199055,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Rua Luiz Leopoldo Fernandes Pinheiro",
     "PESO_NORM": 0.0020125113528143336,
@@ -21219,8 +21219,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9236743,
-    "LON": -43.0924413,
+    "LAT": -22.9572203,
+    "LON": -43.0710521,
     "BAIRRO": "Charitas",
     "NOME DO LOGRADOURO": "R Raul De Albuquerque,Mal",
     "PESO_NORM": 0.007684206592651151,
@@ -21538,8 +21538,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9348477,
-    "LON": -43.009091,
+    "LAT": -22.9343696,
+    "LON": -43.0088573,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "Av Irene Lopes Sodre",
     "PESO_NORM": 0.0017966281337750416,
@@ -21857,8 +21857,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9389987,
-    "LON": -43.0682467,
+    "LAT": -22.8842889,
+    "LON": -43.0819017,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "R Sebastiao,Sao",
     "PESO_NORM": 0.0008569087268674169,
@@ -22693,8 +22693,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8820354,
-    "LON": -43.0858595,
+    "LAT": -22.8872249,
+    "LON": -43.0869171,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Lima Castro,Des",
     "PESO_NORM": 0.00296245588431307,
@@ -22726,8 +22726,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8802422,
-    "LON": -43.0958075,
+    "LAT": -22.879383,
+    "LON": -43.0957769,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Manoel Areal",
     "PESO_NORM": 0.00031828038426504057,
@@ -22792,8 +22792,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8757908,
-    "LON": -43.0806746,
+    "LAT": -22.8802143,
+    "LON": -43.0822274,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Riodades",
     "PESO_NORM": 0.0018310711148724543,
@@ -22869,8 +22869,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8804251,
-    "LON": -43.0838186,
+    "LAT": -22.88289,
+    "LON": -43.0795566,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "Rua 4",
     "PESO_NORM": 0.0009303580463131955,
@@ -23210,8 +23210,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8821258,
-    "LON": -43.0830981,
+    "LAT": -22.8838545,
+    "LON": -43.0831831,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "Rua Sa Barreto",
     "PESO_NORM": 0.0010894982139626093,
@@ -23540,8 +23540,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9038927,
-    "LON": -43.1060629,
+    "LAT": -22.8997433,
+    "LON": -43.1104441,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Av Roberto Silveira",
     "PESO_NORM": 0.009325615258965688,
@@ -23606,8 +23606,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9005447,
-    "LON": -43.1106226,
+    "LAT": -22.9040362,
+    "LON": -43.1145257,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Alvares De Azevedo",
     "PESO_NORM": 0.030902577001487245,
@@ -23628,8 +23628,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031597,
-    "LON": -43.1145477,
+    "LAT": -22.9040819,
+    "LON": -43.1136244,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Ator Paulo Gustavo",
     "PESO_NORM": 0.050806118415969145,
@@ -23639,8 +23639,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031246,
-    "LON": -43.1098003,
+    "LAT": -22.9002042,
+    "LON": -43.1065497,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Backer,Pres",
     "PESO_NORM": 2.4483106481926196e-11,
@@ -23705,8 +23705,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9018743,
-    "LON": -43.1031045,
+    "LAT": -22.9051376,
+    "LON": -43.1066589,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Domingues De Sa",
     "PESO_NORM": 0.016306973170219372,
@@ -23738,8 +23738,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9033495,
-    "LON": -43.1005208,
+    "LAT": -22.9009808,
+    "LON": -43.1026141,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Geraldo Martins,Dr",
     "PESO_NORM": 0.0004455925379710568,
@@ -23782,8 +23782,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9109594,
-    "LON": -43.1039171,
+    "LAT": -22.9106116,
+    "LON": -43.1026655,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Joaquim Tavora",
     "PESO_NORM": 0.1096949615592345,
@@ -23815,8 +23815,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9066843,
-    "LON": -43.1119016,
+    "LAT": -22.9053147,
+    "LON": -43.1103549,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Lopes Trovao",
     "PESO_NORM": 0.03146324009095714,
@@ -23837,8 +23837,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9075401,
-    "LON": -43.1061414,
+    "LAT": -22.9100522,
+    "LON": -43.1088653,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Mariz E Barros",
     "PESO_NORM": 0.03483564297091968,
@@ -23848,8 +23848,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9025796,
-    "LON": -43.1095073,
+    "LAT": -22.9010373,
+    "LON": -43.1111457,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Mem De Sa",
     "PESO_NORM": 0.039049815252991685,
@@ -23870,8 +23870,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9007458,
-    "LON": -43.1128918,
+    "LAT": -22.9013925,
+    "LON": -43.1135893,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Miguel De Frias",
     "PESO_NORM": 0.056649011630982196,
@@ -23914,8 +23914,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9081305,
-    "LON": -43.099389,
+    "LAT": -22.9072474,
+    "LON": -43.1003859,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Otavio Kelly,Min",
     "PESO_NORM": 0.019441447336191346,
@@ -23925,8 +23925,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031597,
-    "LON": -43.1145477,
+    "LAT": -22.8994394,
+    "LON": -43.1084094,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Paulo Cesar,Dr",
     "PESO_NORM": 0.033676074914148306,
@@ -24112,8 +24112,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9068698,
-    "LON": -43.0984045,
+    "LAT": -22.9051835,
+    "LON": -43.0993734,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Dom Bosco",
     "PESO_NORM": 0.00788356026269713,
@@ -24123,8 +24123,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051376,
-    "LON": -43.1066589,
+    "LAT": -22.9018743,
+    "LON": -43.1031045,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Domingues De Sa",
     "PESO_NORM": 0.030961336457043867,
@@ -24145,8 +24145,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9042445,
-    "LON": -43.1095123,
+    "LAT": -22.9063813,
+    "LON": -43.107241,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Gaviao Peixoto",
     "PESO_NORM": 0.018899979296000558,
@@ -24156,8 +24156,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9009808,
-    "LON": -43.1026141,
+    "LAT": -22.9033495,
+    "LON": -43.1005208,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Geraldo Martins,Dr",
     "PESO_NORM": 0.0012804664445216335,
@@ -24200,8 +24200,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9040318,
-    "LON": -43.1193564,
+    "LAT": -22.9041392,
+    "LON": -43.12078,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Itapuca",
     "PESO_NORM": 0.000489662129638524,
@@ -24222,8 +24222,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9109594,
-    "LON": -43.1039171,
+    "LAT": -22.9106116,
+    "LON": -43.1026655,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Joaquim Tavora",
     "PESO_NORM": 0.03131266927989057,
@@ -24244,8 +24244,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9076438,
-    "LON": -43.1041079,
+    "LAT": -22.9097871,
+    "LON": -43.1017856,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Lemos Cunha",
     "PESO_NORM": 0.018753574848613338,
@@ -24288,8 +24288,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9075401,
-    "LON": -43.1061414,
+    "LAT": -22.9100522,
+    "LON": -43.1088653,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Mariz E Barros",
     "PESO_NORM": 0.039245171737624096,
@@ -24321,8 +24321,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9007458,
-    "LON": -43.1128918,
+    "LAT": -22.9001263,
+    "LON": -43.1122957,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Miguel De Frias",
     "PESO_NORM": 0.07089060876589516,
@@ -24387,8 +24387,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8994394,
-    "LON": -43.1084094,
+    "LAT": -22.911341,
+    "LON": -43.1059963,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Paulo Cesar,Dr",
     "PESO_NORM": 0.025833332225533974,
@@ -24662,8 +24662,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9008874,
-    "LON": -43.1213684,
+    "LAT": -22.8999738,
+    "LON": -43.1191141,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Araujo Pimenta,Dr",
     "PESO_NORM": 0.00015791603680842398,
@@ -24684,8 +24684,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9005396,
-    "LON": -43.1195086,
+    "LAT": -22.8998146,
+    "LON": -43.1144164,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Fagundes Varela",
     "PESO_NORM": 0.007163814002249708,
@@ -24717,8 +24717,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9036848,
-    "LON": -43.1214959,
+    "LAT": -22.9028494,
+    "LON": -43.1206545,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Justina Bulhoes",
     "PESO_NORM": 0.002066374187074571,
@@ -24728,8 +24728,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8741031,
-    "LON": -43.0487813,
+    "LAT": -22.8680533,
+    "LON": -43.0936242,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Moraes,Vsc De",
     "PESO_NORM": 0.0013465708565059409,
@@ -24893,8 +24893,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9028494,
-    "LON": -43.1206545,
+    "LAT": -22.9036848,
+    "LON": -43.1214959,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "Rua Justina Bulhoes",
     "PESO_NORM": 0.006475781688952586,
@@ -25223,8 +25223,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9512668,
-    "LON": -43.0251121,
+    "LAT": -22.952119,
+    "LON": -43.025533,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Av Irene Lopes Sodre",
     "PESO_NORM": 4.896621296385239e-06,
@@ -25311,8 +25311,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9396921,
-    "LON": -43.0498156,
+    "LAT": -22.9387176,
+    "LON": -43.0481725,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R 2 (Uba Piratininga)",
     "PESO_NORM": 0.007895801840421199,
@@ -25344,8 +25344,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9516235,
-    "LON": -43.0231529,
+    "LAT": -22.9526906,
+    "LON": -43.0269761,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R 64 (Maravista)",
     "PESO_NORM": 0.0009922805723286442,
@@ -25410,8 +25410,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9387688,
-    "LON": -43.0290198,
+    "LAT": -22.9409049,
+    "LON": -43.0304662,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Augusto Vieira Jacques",
     "PESO_NORM": 0.000489662129638524,
@@ -25542,8 +25542,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9582388,
-    "LON": -43.0308442,
+    "LAT": -22.9558337,
+    "LON": -43.0327436,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Roberto Parago",
     "PESO_NORM": 0.002203479583373358,
@@ -25597,8 +25597,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9619279,
-    "LON": -43.0343226,
+    "LAT": -22.9580467,
+    "LON": -43.0306051,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Scylla Souza Ribeiro",
     "PESO_NORM": 0.004872138165420206,
@@ -25630,8 +25630,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9522787,
-    "LON": -43.0263995,
+    "LAT": -22.9479322,
+    "LON": -43.0307505,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua 18 (Maravista)",
     "PESO_NORM": 0.0015424357083613505,
@@ -25663,8 +25663,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9526906,
-    "LON": -43.0269761,
+    "LAT": -22.9516235,
+    "LON": -43.0231529,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua 56 (Maravista)",
     "PESO_NORM": 0.000979324259277048,
@@ -25861,8 +25861,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9523841,
-    "LON": -43.0235404,
+    "LAT": -22.9524708,
+    "LON": -43.0235646,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua Engenho Do Mato",
     "PESO_NORM": 0.006818545130733339,
@@ -25960,8 +25960,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9531003,
-    "LON": -43.0317971,
+    "LAT": -22.9544998,
+    "LON": -43.0327344,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua Maria D'Ajuda Medeiros",
     "PESO_NORM": 0.0017138174537348339,
@@ -26048,8 +26048,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9619279,
-    "LON": -43.0343226,
+    "LAT": -22.9556668,
+    "LON": -43.0245294,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Rua Scylla Souza Ribeiro",
     "PESO_NORM": 0.011666200312087153,
@@ -26180,8 +26180,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9262874,
-    "LON": -43.1196726,
+    "LAT": -22.9352598,
+    "LON": -43.1088213,
     "BAIRRO": "Jurujuba",
     "NOME DO LOGRADOURO": "Av Carlos Ermelindo Marins",
     "PESO_NORM": 0.0024483106237095133,
@@ -26378,8 +26378,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9400415,
-    "LON": -43.0287609,
+    "LAT": -22.9441582,
+    "LON": -43.0222791,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Adalgisa Monteiro",
     "PESO_NORM": 0.0005019036828794871,
@@ -26389,8 +26389,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9377739,
-    "LON": -43.0289736,
+    "LAT": -22.9397148,
+    "LON": -43.0317903,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Amaro,Sto",
     "PESO_NORM": 0.00122415532409631,
@@ -26829,8 +26829,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9465906,
-    "LON": -43.0275761,
+    "LAT": -22.9453891,
+    "LON": -43.0271605,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Rua Marins Coutinho (Maravista)",
     "PESO_NORM": 0.000979324259277048,
@@ -26906,8 +26906,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8800655,
-    "LON": -43.0334992,
+    "LAT": -22.8779281,
+    "LON": -43.0324799,
     "BAIRRO": "Maria Paula",
     "NOME DO LOGRADOURO": "Av Portugal",
     "PESO_NORM": 0.0019341654120721696,
@@ -27324,8 +27324,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.951066,
-    "LON": -43.0965456,
+    "LAT": -22.9530207,
+    "LON": -43.0789149,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Acurcio Torres,Dr",
     "PESO_NORM": 0.00313383765416966,
@@ -27346,8 +27346,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9349444,
-    "LON": -43.0795603,
+    "LAT": -22.9348597,
+    "LON": -43.0786171,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Praia Piratininga,De",
     "PESO_NORM": 0.008813918333493431,
@@ -27368,8 +27368,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9534122,
-    "LON": -43.095211,
+    "LAT": -22.9549591,
+    "LON": -43.0796227,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Tamandare,Alm",
     "PESO_NORM": 0.00036724659722889297,
@@ -27478,8 +27478,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9540582,
-    "LON": -43.08413,
+    "LAT": -22.9499821,
+    "LON": -43.0578774,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Pr Piratininga, De",
     "PESO_NORM": 0.020141245202173207,
@@ -27621,8 +27621,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9360592,
-    "LON": -43.0710517,
+    "LAT": -22.9363268,
+    "LON": -43.0738603,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Dr. Waldir Costa",
     "PESO_NORM": 0.0012119137708553468,
@@ -27885,8 +27885,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9390853,
-    "LON": -43.0790491,
+    "LAT": -22.9377986,
+    "LON": -43.0775463,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Planeta Terra",
     "PESO_NORM": 0.0004780418352245397,
@@ -27929,8 +27929,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9236743,
-    "LON": -43.0924413,
+    "LAT": -22.9572203,
+    "LON": -43.0710521,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Raul Albuquerque,Mal",
     "PESO_NORM": 0.0007344931944577859,
@@ -28083,8 +28083,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9380898,
-    "LON": -43.0667026,
+    "LAT": -22.9363944,
+    "LON": -43.06489,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Rua Altamiro De Castro",
     "PESO_NORM": 0.0030359052037588485,
@@ -28237,8 +28237,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9360592,
-    "LON": -43.0710517,
+    "LAT": -22.9367809,
+    "LON": -43.079763,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Rua Dr. Waldir Costa",
     "PESO_NORM": 0.001371053962987867,
@@ -28303,8 +28303,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9492596,
-    "LON": -43.0571524,
+    "LAT": -22.9501363,
+    "LON": -43.0563793,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Rua Geografo Amora",
     "PESO_NORM": 0.010344112488613819,
@@ -28600,8 +28600,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9377986,
-    "LON": -43.0775463,
+    "LAT": -22.9390853,
+    "LON": -43.0790491,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Rua Planeta Terra",
     "PESO_NORM": 0.0007383615252819302,
@@ -28721,8 +28721,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8845633,
-    "LON": -43.1264313,
+    "LAT": -22.8843656,
+    "LON": -43.1272097,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "Pca Azevedo Cruz,Dr",
     "PESO_NORM": 0.0008569087268674169,
@@ -28732,8 +28732,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8825375,
-    "LON": -43.1249067,
+    "LAT": -22.8825982,
+    "LON": -43.1247697,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Acre",
     "PESO_NORM": 0.000244831064819262,
@@ -28765,8 +28765,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8832415,
-    "LON": -43.1258027,
+    "LAT": -22.883235,
+    "LON": -43.1258128,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Minas Gerais",
     "PESO_NORM": 0.0020320978379998744,
@@ -28809,8 +28809,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8837971,
-    "LON": -43.1265024,
+    "LAT": -22.8837997,
+    "LON": -43.1265034,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "Rua Recife",
     "PESO_NORM": 0.0007344931944577859,
@@ -29117,8 +29117,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8967903,
-    "LON": -43.1066649,
+    "LAT": -22.896809,
+    "LON": -43.1068657,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Gastao Goncalves",
     "PESO_NORM": 0.0022157211610974274,
@@ -29260,8 +29260,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8989343,
-    "LON": -43.1029622,
+    "LAT": -22.8992726,
+    "LON": -43.1027107,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Rosa,Sta",
     "PESO_NORM": 0.008935431418598138,
@@ -29271,8 +29271,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9002489,
-    "LON": -43.1006787,
+    "LAT": -22.8986462,
+    "LON": -43.0979376,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Sardinha,Dr",
     "PESO_NORM": 0.016705323203855326,
@@ -29557,8 +29557,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8992726,
-    "LON": -43.1027107,
+    "LAT": -22.8999776,
+    "LON": -43.1018236,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "Rua Rosa,Sta",
     "PESO_NORM": 0.015592800856209156,
@@ -29590,8 +29590,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8957047,
-    "LON": -43.0969627,
+    "LAT": -22.8955726,
+    "LON": -43.0946229,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "Rua Vista Alegre",
     "PESO_NORM": 0.00023644518463639206,
@@ -29854,8 +29854,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8735843,
-    "LON": -43.107571,
+    "LAT": -22.8737796,
+    "LON": -43.1070537,
     "BAIRRO": "Santana",
     "NOME DO LOGRADOURO": "Rua B",
     "PESO_NORM": 0.0008301217845486479,
@@ -29865,8 +29865,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8759315,
-    "LON": -43.107817,
+    "LAT": -22.8725664,
+    "LON": -43.1051247,
     "BAIRRO": "Santana",
     "NOME DO LOGRADOURO": "Rua Benjamin Constant",
     "PESO_NORM": 0.0021789964768914316,
@@ -29887,8 +29887,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9452931,
-    "LON": -43.0516493,
+    "LAT": -22.9430512,
+    "LON": -43.0520695,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "Av Antonio,Sto",
     "PESO_NORM": 0.002497793430220134,
@@ -29975,8 +29975,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9386098,
-    "LON": -43.0421533,
+    "LAT": -22.9356727,
+    "LON": -43.0423697,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Carlos Vilhena,Jorn",
     "PESO_NORM": 0.011201021215481236,
@@ -30206,8 +30206,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9409818,
-    "LON": -43.0482177,
+    "LAT": -22.9415987,
+    "LON": -43.0512606,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "Rua Delfina De Jesus",
     "PESO_NORM": 0.001958648518554096,
@@ -30228,8 +30228,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9384586,
-    "LON": -43.0431484,
+    "LAT": -22.9388537,
+    "LON": -43.0433935,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "Rua Eduardo,Sto",
     "PESO_NORM": 0.00017138174537348339,
@@ -30272,8 +30272,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9388458,
-    "LON": -43.0441254,
+    "LAT": -22.9402642,
+    "LON": -43.0438677,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "Rua Juriti",
     "PESO_NORM": 0.0017750252199396493,
@@ -30360,8 +30360,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8970626,
-    "LON": -43.1219745,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R Andrade Neves,Gal",
     "PESO_NORM": 0.000612077662048155,
@@ -30393,8 +30393,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9012655,
-    "LON": -43.1314786,
+    "LAT": -22.902966,
+    "LON": -43.1304111,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R Passo Da Patria",
     "PESO_NORM": 0.0008813918333493431,
@@ -30415,12 +30415,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8987419,
-    "LON": -43.1294787,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Rua Andrade Neves,Gal",
     "PESO_NORM": 0.0043653378857274406,
-    "NIVEL_GEO": "bairro",
+    "NIVEL_GEO": "endereco",
     "ANO DO PAGAMENTO DO ITBI": 2022,
     "QUANTIDADE DE TRANSAÇÕES": 5,
     "valor_medio": null
@@ -30481,8 +30481,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9012655,
-    "LON": -43.1314786,
+    "LAT": -22.9044483,
+    "LON": -43.1300404,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Rua Passo Da Patria",
     "PESO_NORM": 0.0020802478821260453,
@@ -30514,8 +30514,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9166715,
-    "LON": -43.0947105,
+    "LAT": -22.9177993,
+    "LON": -43.0943698,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Av Quintino Bocaiuva",
     "PESO_NORM": 0.0018068532583661533,
@@ -30624,8 +30624,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9181,
-    "LON": -43.0890118,
+    "LAT": -22.920045,
+    "LON": -43.0884586,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Americo Froes,Cel",
     "PESO_NORM": 0.0027543494792166973,
@@ -30734,8 +30734,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.916819,
-    "LON": -43.0932566,
+    "LAT": -22.9218597,
+    "LON": -43.0917497,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Rondon,Gal",
     "PESO_NORM": 0.0005210035418405933,
@@ -30756,8 +30756,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9169534,
-    "LON": -43.0903161,
+    "LAT": -22.9197132,
+    "LON": -43.0897417,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Tupinambas",
     "PESO_NORM": 0.001286878668041676,
@@ -30811,8 +30811,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9167334,
-    "LON": -43.092523,
+    "LAT": -22.9196129,
+    "LON": -43.0919246,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Rua Arariboia",
     "PESO_NORM": 0.0011629475578914944,
@@ -31163,8 +31163,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8883111,
-    "LON": -43.1109673,
+    "LAT": -22.8897114,
+    "LON": -43.1138523,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "Rua Indigena",
     "PESO_NORM": 0.00045293746991563466,
@@ -31174,8 +31174,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8860727,
-    "LON": -43.1118213,
+    "LAT": -22.8832466,
+    "LON": -43.1089913,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "Rua Sao Lourenco",
     "PESO_NORM": 0.006385194072553926,
@@ -31196,8 +31196,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8839799,
-    "LON": -43.1098375,
+    "LAT": -22.8824001,
+    "LON": -43.1104387,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "Trav Paulino",
     "PESO_NORM": 0.0005631114490843026,
@@ -31207,8 +31207,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8824001,
-    "LON": -43.1104387,
+    "LAT": -22.8839799,
+    "LON": -43.1098375,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "Travessa Luiz Paulino",
     "PESO_NORM": 0.10156816758303432,
@@ -32395,8 +32395,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8901536,
-    "LON": -43.0327443,
+    "LAT": -22.8905469,
+    "LON": -43.0309045,
     "BAIRRO": "Vila Progresso",
     "NOME DO LOGRADOURO": "R Uruguai",
     "PESO_NORM": 0.001958648518554096,
@@ -32593,8 +32593,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9058627,
-    "LON": -43.0955385,
+    "LAT": -22.9068976,
+    "LON": -43.0970423,
     "BAIRRO": "Vital Brasil",
     "NOME DO LOGRADOURO": "R Jose Botelho,Mto",
     "PESO_NORM": 0.0029444853086384427,
@@ -32626,12 +32626,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9068976,
-    "LON": -43.0970423,
+    "LAT": -22.9049942,
+    "LON": -43.0980978,
     "BAIRRO": "Vital Brasil",
     "NOME DO LOGRADOURO": "Rua Jose Botelho,Mto",
     "PESO_NORM": 0.005301185093480097,
-    "NIVEL_GEO": "endereco",
+    "NIVEL_GEO": "bairro",
     "ANO DO PAGAMENTO DO ITBI": 2022,
     "QUANTIDADE DE TRANSAÇÕES": 6,
     "valor_medio": null
@@ -32747,8 +32747,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051133,
-    "LON": -43.0547163,
+    "LAT": -22.9061493,
+    "LON": -43.0597318,
     "BAIRRO": "Badu",
     "NOME DO LOGRADOURO": "R Joao Baptista Da Costa",
     "PESO_NORM": 0.020862880113937752,
@@ -32989,8 +32989,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8725664,
-    "LON": -43.1051247,
+    "LAT": -22.874297,
+    "LON": -43.1067873,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "R Benjamin Constant",
     "PESO_NORM": 0.009012005786238377,
@@ -33055,8 +33055,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8613939,
-    "LON": -43.1029199,
+    "LAT": -22.859218,
+    "LON": -43.1008511,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "R General Castrioto",
     "PESO_NORM": 0.0015240733784999058,
@@ -33308,8 +33308,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9087752,
-    "LON": -43.0759713,
+    "LAT": -22.9118776,
+    "LON": -43.0813889,
     "BAIRRO": "Cachoeira",
     "NOME DO LOGRADOURO": "R Albino Pereira",
     "PESO_NORM": 0.00122415532409631,
@@ -33495,8 +33495,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9327174,
-    "LON": -43.0689673,
+    "LAT": -22.9303172,
+    "LON": -43.0665883,
     "BAIRRO": "Cafuba",
     "NOME DO LOGRADOURO": "R Osias Stutz,Jorn",
     "PESO_NORM": 0.0019341654120721696,
@@ -33704,8 +33704,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9558669,
-    "LON": -43.0630278,
+    "LAT": -22.9553408,
+    "LON": -43.0635666,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "R Luiz Pereira Dos Santos",
     "PESO_NORM": 0.0026686586065299556,
@@ -33715,8 +33715,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9566833,
-    "LON": -43.0534079,
+    "LAT": -22.9591961,
+    "LON": -43.0529487,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "R Marcos Otavio Valadao",
     "PESO_NORM": 0.020688224977227637,
@@ -33836,8 +33836,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9087147,
-    "LON": -43.0545607,
+    "LAT": -22.9109077,
+    "LON": -43.047909,
     "BAIRRO": "Cantagalo",
     "NOME DO LOGRADOURO": "R A",
     "PESO_NORM": 0.0001468986388915572,
@@ -33891,8 +33891,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8880928,
-    "LON": -43.0773485,
+    "LAT": -22.8878531,
+    "LON": -43.0716521,
     "BAIRRO": "Caramujo",
     "NOME DO LOGRADOURO": "Av Jeronimo Affonso",
     "PESO_NORM": 0.00036724659722889297,
@@ -33946,8 +33946,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8851934,
-    "LON": -43.1229108,
+    "LAT": -22.8853495,
+    "LON": -43.1237227,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Av Feliciano Sodre",
     "PESO_NORM": 0.002771487727203365,
@@ -33957,8 +33957,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8870683,
-    "LON": -43.1247034,
+    "LAT": -22.8862501,
+    "LON": -43.124919,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Av Visconde Do Rio Branco",
     "PESO_NORM": 0.12486261410381064,
@@ -34023,8 +34023,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8970626,
-    "LON": -43.1219745,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Andrade Neves,Gal",
     "PESO_NORM": 0.004638638739189507,
@@ -34067,8 +34067,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.888006,
-    "LON": -43.1203311,
+    "LAT": -22.93902,
+    "LON": -43.0786696,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Caxias, Mq De",
     "PESO_NORM": 0.0014396556273502243,
@@ -34122,8 +34122,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8951256,
-    "LON": -43.1136555,
+    "LAT": -22.895494,
+    "LON": -43.113102,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Euzebio De Queiros",
     "PESO_NORM": 0.0005386283426023764,
@@ -34144,8 +34144,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9089887,
-    "LON": -43.0615656,
+    "LAT": -22.9070307,
+    "LON": -43.0536196,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Francisco Da Cruz,Csl",
     "PESO_NORM": 0.0008569087268674169,
@@ -34166,8 +34166,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8925468,
-    "LON": -43.114287,
+    "LAT": -22.8927114,
+    "LON": -43.118026,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Gomes Machado,Cel",
     "PESO_NORM": 0.0046693400160895005,
@@ -34232,8 +34232,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8931908,
-    "LON": -43.1197532,
+    "LAT": -22.892319,
+    "LON": -43.1199055,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Luiz Leopoldo Fernandes Pinheiro",
     "PESO_NORM": 0.006492706248385879,
@@ -34254,8 +34254,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.889644,
-    "LON": -43.1197662,
+    "LAT": -22.8898672,
+    "LON": -43.1221924,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Marechal Deodoro",
     "PESO_NORM": 0.0060106027147622,
@@ -34364,8 +34364,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8893437,
-    "LON": -43.1191881,
+    "LAT": -22.8848794,
+    "LON": -43.1200366,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Sepetiba, Vsc",
     "PESO_NORM": 0.007811686210805505,
@@ -34375,8 +34375,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8957904,
-    "LON": -43.1225196,
+    "LAT": -22.8969027,
+    "LON": -43.1233209,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Teffe,Alm",
     "PESO_NORM": 0.005094322430193006,
@@ -34639,8 +34639,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9236743,
-    "LON": -43.0924413,
+    "LAT": -22.9572203,
+    "LON": -43.0710521,
     "BAIRRO": "Charitas",
     "NOME DO LOGRADOURO": "R Raul De Albuquerque,Mal",
     "PESO_NORM": 0.011898789750216132,
@@ -34760,8 +34760,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9241557,
-    "LON": -43.0073766,
+    "LAT": -22.9148161,
+    "LON": -42.9969098,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "Av Central Ewerton Xavier",
     "PESO_NORM": 0.00015914019213252029,
@@ -34771,8 +34771,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9348477,
-    "LON": -43.009091,
+    "LAT": -22.9343696,
+    "LON": -43.0088573,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "Av Irene Lopes Sodre",
     "PESO_NORM": 0.01705277256531808,
@@ -35079,8 +35079,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9409392,
-    "LON": -43.0134672,
+    "LAT": -22.940993,
+    "LON": -43.0121663,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "R Das Aroeiras",
     "PESO_NORM": 0.000244831064819262,
@@ -35299,8 +35299,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9389987,
-    "LON": -43.0682467,
+    "LAT": -22.8842889,
+    "LON": -43.0819017,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "R Sebastiao,Sao",
     "PESO_NORM": 0.0017015759249769773,
@@ -35486,8 +35486,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8793856,
-    "LON": -43.0929542,
+    "LAT": -22.8814518,
+    "LON": -43.0803344,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "Al Sao Boaventura",
     "PESO_NORM": 0.03632243068379477,
@@ -35552,8 +35552,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8820039,
-    "LON": -43.0838902,
+    "LAT": -22.8804251,
+    "LON": -43.0838186,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Americo Braga,Prof",
     "PESO_NORM": 0.0001718714075031219,
@@ -35684,8 +35684,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9016934,
-    "LON": -43.0687541,
+    "LAT": -22.902251,
+    "LON": -43.0680528,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Januario,Sao",
     "PESO_NORM": 0.0020076147315179482,
@@ -35750,8 +35750,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8820354,
-    "LON": -43.0858595,
+    "LAT": -22.8872249,
+    "LON": -43.0869171,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Lima Castro,Des",
     "PESO_NORM": 0.014776737246919323,
@@ -35783,8 +35783,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8802422,
-    "LON": -43.0958075,
+    "LAT": -22.879383,
+    "LON": -43.0957769,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Manoel Areal",
     "PESO_NORM": 0.0015179526263625308,
@@ -35915,8 +35915,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8757908,
-    "LON": -43.0806746,
+    "LAT": -22.8802143,
+    "LON": -43.0822274,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Riodades",
     "PESO_NORM": 0.008480963974875341,
@@ -36267,8 +36267,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9038927,
-    "LON": -43.1060629,
+    "LAT": -22.8997433,
+    "LON": -43.1104441,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Av Roberto Silveira",
     "PESO_NORM": 0.05156142225093657,
@@ -36300,8 +36300,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9005447,
-    "LON": -43.1106226,
+    "LAT": -22.9040362,
+    "LON": -43.1145257,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Alvares De Azevedo",
     "PESO_NORM": 0.13229297460907238,
@@ -36322,8 +36322,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031597,
-    "LON": -43.1145477,
+    "LAT": -22.9040819,
+    "LON": -43.1136244,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Ator Paulo Gustavo",
     "PESO_NORM": 0.1400362689757381,
@@ -36377,8 +36377,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9068698,
-    "LON": -43.0984045,
+    "LAT": -22.9065119,
+    "LON": -43.0986567,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Dom Bosco",
     "PESO_NORM": 0.00489662129638524,
@@ -36388,8 +36388,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9018743,
-    "LON": -43.1031045,
+    "LAT": -22.9051376,
+    "LON": -43.1066589,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Domingues De Sa",
     "PESO_NORM": 0.0697674436608275,
@@ -36454,8 +36454,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9033495,
-    "LON": -43.1005208,
+    "LAT": -22.9009808,
+    "LON": -43.1026141,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Geraldo Martins,Dr",
     "PESO_NORM": 0.0022367060723590027,
@@ -36520,8 +36520,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9109594,
-    "LON": -43.1039171,
+    "LAT": -22.9106116,
+    "LON": -43.1026655,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Joaquim Tavora",
     "PESO_NORM": 0.06495951307871692,
@@ -36553,8 +36553,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9066843,
-    "LON": -43.1119016,
+    "LAT": -22.9053147,
+    "LON": -43.1103549,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Lopes Trovao",
     "PESO_NORM": 0.04207030082490647,
@@ -36597,8 +36597,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9075401,
-    "LON": -43.1061414,
+    "LAT": -22.9100522,
+    "LON": -43.1088653,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Mariz E Barros",
     "PESO_NORM": 0.06979432753176484,
@@ -36608,8 +36608,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9025796,
-    "LON": -43.1095073,
+    "LAT": -22.9010373,
+    "LON": -43.1111457,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Mem De Sa",
     "PESO_NORM": 0.07810913994040579,
@@ -36630,8 +36630,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9007458,
-    "LON": -43.1128918,
+    "LAT": -22.9013925,
+    "LON": -43.1135893,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Miguel De Frias",
     "PESO_NORM": 0.12069725526011804,
@@ -36685,8 +36685,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9081305,
-    "LON": -43.099389,
+    "LAT": -22.9072474,
+    "LON": -43.1003859,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Otavio Kelly,Min",
     "PESO_NORM": 0.05806305773308748,
@@ -36696,8 +36696,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031597,
-    "LON": -43.1145477,
+    "LAT": -22.8994394,
+    "LON": -43.1084094,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Paulo Cesar,Dr",
     "PESO_NORM": 0.0637138586491567,
@@ -36773,8 +36773,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9109594,
-    "LON": -43.1039171,
+    "LAT": -22.9106116,
+    "LON": -43.1026655,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Rua Joaquim Tavora",
     "PESO_NORM": 0.00020160768276112964,
@@ -36982,8 +36982,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9008874,
-    "LON": -43.1213684,
+    "LAT": -22.8999738,
+    "LON": -43.1191141,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Araujo Pimenta,Dr",
     "PESO_NORM": 0.0029220721753602436,
@@ -37015,8 +37015,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9005396,
-    "LON": -43.1195086,
+    "LAT": -22.8998146,
+    "LON": -43.1144164,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Fagundes Varela",
     "PESO_NORM": 0.03356309355509179,
@@ -37048,8 +37048,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9036848,
-    "LON": -43.1214959,
+    "LAT": -22.9028494,
+    "LON": -43.1206545,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Justina Bulhoes",
     "PESO_NORM": 0.014817616640845981,
@@ -37059,8 +37059,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8741031,
-    "LON": -43.0487813,
+    "LAT": -22.8680533,
+    "LON": -43.0936242,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Moraes,Vsc De",
     "PESO_NORM": 0.006657912668777639,
@@ -37191,8 +37191,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9718706,
-    "LON": -43.0336123,
+    "LAT": -22.9722594,
+    "LON": -43.0302955,
     "BAIRRO": "Itacoatiara",
     "NOME DO LOGRADOURO": "R Das Camelias",
     "PESO_NORM": 0.0036724659722889297,
@@ -37356,8 +37356,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9512668,
-    "LON": -43.0251121,
+    "LAT": -22.952119,
+    "LON": -43.025533,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Av Irene Lopes Sodre",
     "PESO_NORM": 0.008853361940123565,
@@ -37378,8 +37378,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9291247,
-    "LON": -43.0109622,
+    "LAT": -22.9495009,
+    "LON": -43.0330325,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Av Romanda Goncalves,Prof",
     "PESO_NORM": 0.00904650784507173,
@@ -37466,8 +37466,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9475559,
-    "LON": -43.0328077,
+    "LAT": -22.9452535,
+    "LON": -43.0354098,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Alice Picanco,Prfa",
     "PESO_NORM": 0.0062431921528911805,
@@ -37543,8 +37543,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9387688,
-    "LON": -43.0290198,
+    "LAT": -22.9409049,
+    "LON": -43.0304662,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Augusto Vieira Jacques",
     "PESO_NORM": 0.002130030263927579,
@@ -37785,8 +37785,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9582388,
-    "LON": -43.0308442,
+    "LAT": -22.9558337,
+    "LON": -43.0327436,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Roberto Parago",
     "PESO_NORM": 0.004676273338047904,
@@ -37873,8 +37873,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9619279,
-    "LON": -43.0343226,
+    "LAT": -22.9580467,
+    "LON": -43.0306051,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Scylla  Souza Ribeiro",
     "PESO_NORM": 0.00011017397916866789,
@@ -37884,8 +37884,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9619279,
-    "LON": -43.0343226,
+    "LAT": -22.9580467,
+    "LON": -43.0306051,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Scylla Souza Ribeiro",
     "PESO_NORM": 0.011188779662240272,
@@ -37994,8 +37994,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9262874,
-    "LON": -43.1196726,
+    "LAT": -22.9352598,
+    "LON": -43.1088213,
     "BAIRRO": "Jurujuba",
     "NOME DO LOGRADOURO": "Av Carlos Ermelindo Marins",
     "PESO_NORM": 0.002325895115782989,
@@ -38126,8 +38126,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9463459,
-    "LON": -43.031776,
+    "LAT": -22.9440068,
+    "LON": -43.0302845,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Av Central Ewerton Xavier",
     "PESO_NORM": 0.01216075886715721,
@@ -38137,8 +38137,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9291247,
-    "LON": -43.0109622,
+    "LAT": -22.9495009,
+    "LON": -43.0330325,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Av Romanda Goncalves,Prof",
     "PESO_NORM": 0.002472793754674546,
@@ -38170,8 +38170,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9400415,
-    "LON": -43.0287609,
+    "LAT": -22.9441582,
+    "LON": -43.0222791,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Adalgisa Monteiro",
     "PESO_NORM": 0.0034031518009877415,
@@ -38192,8 +38192,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9419953,
-    "LON": -43.0266318,
+    "LAT": -22.9396642,
+    "LON": -43.0307206,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Angeolina Petropolis,Prfa",
     "PESO_NORM": 0.002913489695832324,
@@ -38632,8 +38632,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8800655,
-    "LON": -43.0334992,
+    "LAT": -22.8779281,
+    "LON": -43.0324799,
     "BAIRRO": "Maria Paula",
     "NOME DO LOGRADOURO": "Av Portugal",
     "PESO_NORM": 0.0074918305834694165,
@@ -38852,8 +38852,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8974988,
-    "LON": -43.1041356,
+    "LAT": -22.8980468,
+    "LON": -43.1040654,
     "BAIRRO": "Pe Pequeno",
     "NOME DO LOGRADOURO": "R Mangaratiba",
     "PESO_NORM": 0.000612077662048155,
@@ -39017,8 +39017,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.951066,
-    "LON": -43.0965456,
+    "LAT": -22.9530207,
+    "LON": -43.0789149,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Acurcio Torres,Dr",
     "PESO_NORM": 0.011717493766737645,
@@ -39072,8 +39072,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9349444,
-    "LON": -43.0795603,
+    "LAT": -22.9348597,
+    "LON": -43.0786171,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Praia Piratininga,De",
     "PESO_NORM": 0.030964953297398227,
@@ -39094,8 +39094,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9534122,
-    "LON": -43.095211,
+    "LAT": -22.9549591,
+    "LON": -43.0796227,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Tamandare,Alm",
     "PESO_NORM": 0.016859146791482874,
@@ -39116,8 +39116,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9540582,
-    "LON": -43.08413,
+    "LAT": -22.9499821,
+    "LON": -43.0578774,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Pr Piratininga, De",
     "PESO_NORM": 0.004113161888963601,
@@ -39336,8 +39336,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9347501,
-    "LON": -43.0778195,
+    "LAT": -22.9370263,
+    "LON": -43.0774378,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Cruzeiro Do Sul",
     "PESO_NORM": 0.0028155572454215128,
@@ -39358,8 +39358,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9360592,
-    "LON": -43.0710517,
+    "LAT": -22.9363268,
+    "LON": -43.0738603,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Dr. Waldir Costa",
     "PESO_NORM": 0.0033052193750600367,
@@ -39787,8 +39787,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9236743,
-    "LON": -43.0924413,
+    "LAT": -22.9572203,
+    "LON": -43.0710521,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Raul Albuquerque,Mal",
     "PESO_NORM": 0.026684137754651362,
@@ -39974,8 +39974,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8822597,
-    "LON": -43.122269,
+    "LAT": -22.8833805,
+    "LON": -43.1245496,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Clara,Sta",
     "PESO_NORM": 0.0010894982384457158,
@@ -40348,8 +40348,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8967903,
-    "LON": -43.1066649,
+    "LAT": -22.896809,
+    "LON": -43.1068657,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Gastao Goncalves",
     "PESO_NORM": 0.0028013639478980234,
@@ -40557,8 +40557,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8989343,
-    "LON": -43.1029622,
+    "LAT": -22.8992726,
+    "LON": -43.1027107,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Rosa,Sta",
     "PESO_NORM": 0.025237910959453814,
@@ -40568,8 +40568,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9002489,
-    "LON": -43.1006787,
+    "LAT": -22.8986462,
+    "LON": -43.0979376,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Sardinha,Dr",
     "PESO_NORM": 0.03603576680391623,
@@ -40997,8 +40997,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9406552,
-    "LON": -43.0447339,
+    "LAT": -22.9407389,
+    "LON": -43.0445312,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Ary Guanabara,Jorn",
     "PESO_NORM": 0.003097112969963664,
@@ -41008,8 +41008,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9386098,
-    "LON": -43.0421533,
+    "LAT": -22.9356727,
+    "LON": -43.0423697,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Carlos Vilhena,Jorn",
     "PESO_NORM": 0.008593570350672989,
@@ -41074,8 +41074,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9429739,
-    "LON": -43.0429993,
+    "LAT": -22.9420809,
+    "LON": -43.0428929,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Germano Faber,Gov",
     "PESO_NORM": 0.004639548702808121,
@@ -41195,8 +41195,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8970626,
-    "LON": -43.1219745,
+    "LAT": -22.8974264,
+    "LON": -43.1236636,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R Andrade Neves,Gal",
     "PESO_NORM": 0.0032489082056684996,
@@ -41206,8 +41206,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8993848,
-    "LON": -43.1258877,
+    "LAT": -22.9003384,
+    "LON": -43.1281918,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R General Andrade Neves",
     "PESO_NORM": 0.0015914019213252029,
@@ -41250,8 +41250,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9007406,
-    "LON": -43.1307385,
+    "LAT": -22.8785663,
+    "LON": -43.0919916,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R Osorio,Gal",
     "PESO_NORM": 0.0022769289028191364,
@@ -41261,8 +41261,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9012655,
-    "LON": -43.1314786,
+    "LAT": -22.902966,
+    "LON": -43.1304111,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R Passo Da Patria",
     "PESO_NORM": 0.0015914019213252029,
@@ -41283,8 +41283,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9012655,
-    "LON": -43.1314786,
+    "LAT": -22.9044483,
+    "LON": -43.1300404,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Rua Passo Da Patria",
     "PESO_NORM": 2.4483106481926196e-11,
@@ -41305,8 +41305,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8991651,
-    "LON": -43.1269827,
+    "LAT": -22.8991768,
+    "LON": -43.1269836,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Tv Manoel Continentino",
     "PESO_NORM": 0.0010282904722409003,
@@ -41327,8 +41327,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9157582,
-    "LON": -43.0898458,
+    "LAT": -22.9136545,
+    "LON": -43.0901985,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Av Padre Natuzzi",
     "PESO_NORM": 0.004162128101927454,
@@ -41338,8 +41338,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9166715,
-    "LON": -43.0947105,
+    "LAT": -22.9177993,
+    "LON": -43.0943698,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Av Quintino Bocaiuva",
     "PESO_NORM": 0.051620095966654296,
@@ -41426,8 +41426,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9181,
-    "LON": -43.0890118,
+    "LAT": -22.920045,
+    "LON": -43.0884586,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Americo Froes,Cel",
     "PESO_NORM": 0.0030603883102407747,
@@ -41514,8 +41514,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9145213,
-    "LON": -43.083353,
+    "LAT": -22.9132565,
+    "LON": -43.0842457,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Guaianazes",
     "PESO_NORM": 0.0020688224977227637,
@@ -41657,8 +41657,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.916819,
-    "LON": -43.0932566,
+    "LAT": -22.9218597,
+    "LON": -43.0917497,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Rondon,Gal",
     "PESO_NORM": 0.0010405320254818634,
@@ -41690,8 +41690,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9160269,
-    "LON": -43.0871367,
+    "LAT": -22.9142058,
+    "LON": -43.088146,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Tapajos",
     "PESO_NORM": 0.0026931417130118818,
@@ -41712,8 +41712,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9169534,
-    "LON": -43.0903161,
+    "LAT": -22.9197132,
+    "LON": -43.0897417,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Tupinambas",
     "PESO_NORM": 0.0015730395914637582,
@@ -41789,8 +41789,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8824001,
-    "LON": -43.1104387,
+    "LAT": -22.8839799,
+    "LON": -43.1098375,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "Travessa  Luiz Paulino",
     "PESO_NORM": 0.0005631114490843026,
@@ -41800,8 +41800,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8824001,
-    "LON": -43.1104387,
+    "LAT": -22.8839799,
+    "LON": -43.1098375,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "Travessa Luiz Paulino",
     "PESO_NORM": 0.0027612047490316364,
@@ -41910,8 +41910,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9262679,
-    "LON": -43.010366,
+    "LAT": -22.931938,
+    "LON": -43.0184546,
     "BAIRRO": "Serra Grande",
     "NOME DO LOGRADOURO": "Av Central Ewerton Xavier",
     "PESO_NORM": 0.010478769598747517,
@@ -42757,8 +42757,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8901536,
-    "LON": -43.0327443,
+    "LAT": -22.8905469,
+    "LON": -43.0309045,
     "BAIRRO": "Vila Progresso",
     "NOME DO LOGRADOURO": "R Uruguai",
     "PESO_NORM": 0.0018362329861444648,
@@ -42812,8 +42812,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9058627,
-    "LON": -43.0955385,
+    "LAT": -22.9068976,
+    "LON": -43.0970423,
     "BAIRRO": "Vital Brasil",
     "NOME DO LOGRADOURO": "R Jose Botelho,Mto",
     "PESO_NORM": 0.0026564170532889925,
@@ -42955,8 +42955,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051133,
-    "LON": -43.0547163,
+    "LAT": -22.9061493,
+    "LON": -43.0597318,
     "BAIRRO": "Badu",
     "NOME DO LOGRADOURO": "R Joao Baptista Da Costa",
     "PESO_NORM": 0.02226493568809283,
@@ -43208,8 +43208,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8725664,
-    "LON": -43.1051247,
+    "LAT": -22.874297,
+    "LON": -43.1067873,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "R Benjamin Constant",
     "PESO_NORM": 0.01226828039553584,
@@ -43274,8 +43274,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8613939,
-    "LON": -43.1029199,
+    "LAT": -22.859218,
+    "LON": -43.1008511,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "R General Castrioto",
     "PESO_NORM": 0.002901248044658935,
@@ -43307,8 +43307,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8671007,
-    "LON": -43.100712,
+    "LAT": -22.8679669,
+    "LON": -43.0996351,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "R Pires",
     "PESO_NORM": 5.1172140857873946e-05,
@@ -43505,8 +43505,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9087752,
-    "LON": -43.0759713,
+    "LAT": -22.9118776,
+    "LON": -43.0813889,
     "BAIRRO": "Cachoeira",
     "NOME DO LOGRADOURO": "R Albino Pereira",
     "PESO_NORM": 0.0026686586065299556,
@@ -43659,8 +43659,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9327174,
-    "LON": -43.0689673,
+    "LAT": -22.9303172,
+    "LON": -43.0665883,
     "BAIRRO": "Cafuba",
     "NOME DO LOGRADOURO": "R Osias Stutz,Jorn",
     "PESO_NORM": 0.0029379727778311437,
@@ -43736,8 +43736,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9578237,
-    "LON": -43.0637717,
+    "LAT": -22.9584027,
+    "LON": -43.0640172,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "R Aloisio Costa, Ver.",
     "PESO_NORM": 0.01958648518554096,
@@ -43923,8 +43923,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9566833,
-    "LON": -43.0534079,
+    "LAT": -22.9591961,
+    "LON": -43.0529487,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "R Marcos Otavio Valadao",
     "PESO_NORM": 0.000979324259277048,
@@ -44231,8 +44231,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8851934,
-    "LON": -43.1229108,
+    "LAT": -22.8853495,
+    "LON": -43.1237227,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Av Feliciano Sodre",
     "PESO_NORM": 0.005296454222814595,
@@ -44253,8 +44253,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8870683,
-    "LON": -43.1247034,
+    "LAT": -22.8862501,
+    "LON": -43.124919,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Av Visconde Do Rio Branco",
     "PESO_NORM": 0.356223669753461,
@@ -44374,8 +44374,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.888006,
-    "LON": -43.1203311,
+    "LAT": -22.93902,
+    "LON": -43.0786696,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Caxias, Mq De",
     "PESO_NORM": 0.0022891704560600995,
@@ -44429,8 +44429,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8951256,
-    "LON": -43.1136555,
+    "LAT": -22.895494,
+    "LON": -43.113102,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Euzebio De Queiros",
     "PESO_NORM": 0.00034926510208877463,
@@ -44451,8 +44451,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9089887,
-    "LON": -43.0615656,
+    "LAT": -22.9070307,
+    "LON": -43.0536196,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Francisco Da Cruz,Csl",
     "PESO_NORM": 0.001101739791686679,
@@ -44462,8 +44462,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8861948,
-    "LON": -43.1235276,
+    "LAT": -22.8861769,
+    "LON": -43.1235326,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Froes Da Cruz,Dr",
     "PESO_NORM": 0.000979324308243261,
@@ -44484,8 +44484,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8925468,
-    "LON": -43.114287,
+    "LAT": -22.8927114,
+    "LON": -43.118026,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Gomes Machado,Cel",
     "PESO_NORM": 0.004681297222531782,
@@ -44539,8 +44539,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8931908,
-    "LON": -43.1197532,
+    "LAT": -22.892319,
+    "LON": -43.1199055,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Luiz Leopoldo Fernandes Pinheiro",
     "PESO_NORM": 0.007593261155651258,
@@ -44561,8 +44561,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.889644,
-    "LON": -43.1197662,
+    "LAT": -22.8898672,
+    "LON": -43.1221924,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Marechal Deodoro",
     "PESO_NORM": 0.004314657904276067,
@@ -44682,8 +44682,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8893437,
-    "LON": -43.1191881,
+    "LAT": -22.8848794,
+    "LON": -43.1200366,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Sepetiba, Vsc",
     "PESO_NORM": 0.017094260168575966,
@@ -44693,8 +44693,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8957904,
-    "LON": -43.1225196,
+    "LAT": -22.8969027,
+    "LON": -43.1233209,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Teffe,Alm",
     "PESO_NORM": 0.011965410780230315,
@@ -44902,8 +44902,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9333944,
-    "LON": -43.099434,
+    "LAT": -22.9310591,
+    "LON": -43.0973367,
     "BAIRRO": "Charitas",
     "NOME DO LOGRADOURO": "R Luis Otavio,Trov",
     "PESO_NORM": 0.0042894402556334695,
@@ -44946,8 +44946,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9236743,
-    "LON": -43.0924413,
+    "LAT": -22.9572203,
+    "LON": -43.0710521,
     "BAIRRO": "Charitas",
     "NOME DO LOGRADOURO": "R Raul De Albuquerque,Mal",
     "PESO_NORM": 0.00881795804606295,
@@ -45056,8 +45056,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9241557,
-    "LON": -43.0073766,
+    "LAT": -22.9148161,
+    "LON": -42.9969098,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "Av Central Ewerton Xavier",
     "PESO_NORM": 0.002661535246699039,
@@ -45067,8 +45067,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9348477,
-    "LON": -43.009091,
+    "LAT": -22.9343696,
+    "LON": -43.0088573,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "Av Irene Lopes Sodre",
     "PESO_NORM": 0.012028309055971494,
@@ -45276,8 +45276,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9409392,
-    "LON": -43.0134672,
+    "LAT": -22.940993,
+    "LON": -43.0121663,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "R Das Aroeiras",
     "PESO_NORM": 0.0026564170532889925,
@@ -45507,8 +45507,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9389987,
-    "LON": -43.0682467,
+    "LAT": -22.8842889,
+    "LON": -43.0819017,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "R Sebastiao,Sao",
     "PESO_NORM": 0.0020565809444818006,
@@ -45529,8 +45529,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8702321,
-    "LON": -43.0969597,
+    "LAT": -22.8707118,
+    "LON": -43.0981604,
     "BAIRRO": "Engenhoca",
     "NOME DO LOGRADOURO": "Av Renato Silva,Dr",
     "PESO_NORM": 2.4483106481926196e-11,
@@ -45661,8 +45661,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8793856,
-    "LON": -43.0929542,
+    "LAT": -22.8814518,
+    "LON": -43.0803344,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "Al Sao Boaventura",
     "PESO_NORM": 0.06502072055112446,
@@ -45881,8 +45881,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9016934,
-    "LON": -43.0687541,
+    "LAT": -22.902251,
+    "LON": -43.0680528,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Januario,Sao",
     "PESO_NORM": 0.004180386525484989,
@@ -45947,8 +45947,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8820354,
-    "LON": -43.0858595,
+    "LAT": -22.8872249,
+    "LON": -43.0869171,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Lima Castro,Des",
     "PESO_NORM": 0.01946609545881096,
@@ -45980,8 +45980,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8802422,
-    "LON": -43.0958075,
+    "LAT": -22.879383,
+    "LON": -43.0957769,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Manoel Areal",
     "PESO_NORM": 0.001113981344927642,
@@ -46079,8 +46079,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8757908,
-    "LON": -43.0806746,
+    "LAT": -22.8802143,
+    "LON": -43.0822274,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Riodades",
     "PESO_NORM": 0.00667886296092665,
@@ -46497,8 +46497,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9038927,
-    "LON": -43.1060629,
+    "LAT": -22.8997433,
+    "LON": -43.1104441,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Av Roberto Silveira",
     "PESO_NORM": 0.10215311957898554,
@@ -46519,8 +46519,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9005447,
-    "LON": -43.1106226,
+    "LAT": -22.9040362,
+    "LON": -43.1145257,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Alvares De Azevedo",
     "PESO_NORM": 0.26818435599680546,
@@ -46541,8 +46541,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031597,
-    "LON": -43.1145477,
+    "LAT": -22.9040819,
+    "LON": -43.1136244,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Ator Paulo Gustavo",
     "PESO_NORM": 0.16876926638861384,
@@ -46596,8 +46596,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031166,
-    "LON": -43.1079014,
+    "LAT": -22.9007705,
+    "LON": -43.1052541,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R D (Jardim Icarai)",
     "PESO_NORM": 0.0016670906615546704,
@@ -46607,8 +46607,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9068698,
-    "LON": -43.0984045,
+    "LAT": -22.9065119,
+    "LON": -43.0986567,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Dom Bosco",
     "PESO_NORM": 0.00347660112043352,
@@ -46618,8 +46618,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9018743,
-    "LON": -43.1031045,
+    "LAT": -22.9051376,
+    "LON": -43.1066589,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Domingues De Sa",
     "PESO_NORM": 0.08995412213921612,
@@ -46684,8 +46684,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9033495,
-    "LON": -43.1005208,
+    "LAT": -22.9009808,
+    "LON": -43.1026141,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Geraldo Martins,Dr",
     "PESO_NORM": 0.0011034888648137476,
@@ -46750,8 +46750,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9109594,
-    "LON": -43.1039171,
+    "LAT": -22.9106116,
+    "LON": -43.1026655,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Joaquim Tavora",
     "PESO_NORM": 0.11278419158098864,
@@ -46794,8 +46794,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9066843,
-    "LON": -43.1119016,
+    "LAT": -22.9053147,
+    "LON": -43.1103549,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Lopes Trovao",
     "PESO_NORM": 0.07656631113128677,
@@ -46827,8 +46827,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9075401,
-    "LON": -43.1061414,
+    "LAT": -22.9100522,
+    "LON": -43.1088653,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Mariz E Barros",
     "PESO_NORM": 0.09646973958071535,
@@ -46838,8 +46838,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9025796,
-    "LON": -43.1095073,
+    "LAT": -22.9010373,
+    "LON": -43.1111457,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Mem De Sa",
     "PESO_NORM": 0.12000842878829597,
@@ -46860,8 +46860,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9007458,
-    "LON": -43.1128918,
+    "LAT": -22.9013925,
+    "LON": -43.1135893,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Miguel De Frias",
     "PESO_NORM": 0.2055277135329414,
@@ -46915,8 +46915,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9081305,
-    "LON": -43.099389,
+    "LAT": -22.9072474,
+    "LON": -43.1003859,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Otavio Kelly,Min",
     "PESO_NORM": 0.09749769296954622,
@@ -46926,8 +46926,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031597,
-    "LON": -43.1145477,
+    "LAT": -22.8994394,
+    "LON": -43.1084094,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Paulo Cesar,Dr",
     "PESO_NORM": 0.07549519397676206,
@@ -46992,8 +46992,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9065119,
-    "LON": -43.0986567,
+    "LAT": -22.9068698,
+    "LON": -43.0984045,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R.Dom Bosco",
     "PESO_NORM": 0.000979324259277048,
@@ -47102,8 +47102,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8764339,
-    "LON": -43.1146012,
+    "LAT": -22.8717144,
+    "LON": -43.1153097,
     "BAIRRO": "Ilha Da Conceicao",
     "NOME DO LOGRADOURO": "R Vargas,Pres",
     "PESO_NORM": 0.00044069591667467156,
@@ -47157,8 +47157,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9008874,
-    "LON": -43.1213684,
+    "LAT": -22.8999738,
+    "LON": -43.1191141,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Araujo Pimenta,Dr",
     "PESO_NORM": 0.0010160488945168307,
@@ -47201,8 +47201,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9005396,
-    "LON": -43.1195086,
+    "LAT": -22.8998146,
+    "LON": -43.1144164,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Fagundes Varela",
     "PESO_NORM": 0.04215991793096418,
@@ -47234,8 +47234,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9036848,
-    "LON": -43.1214959,
+    "LAT": -22.9028494,
+    "LON": -43.1206545,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Justina Bulhoes",
     "PESO_NORM": 0.012530453897449827,
@@ -47245,8 +47245,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8741031,
-    "LON": -43.0487813,
+    "LAT": -22.8680533,
+    "LON": -43.0936242,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Moraes,Vsc De",
     "PESO_NORM": 0.011445852280300498,
@@ -47553,8 +47553,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9512668,
-    "LON": -43.0251121,
+    "LAT": -22.952119,
+    "LON": -43.025533,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Av Irene Lopes Sodre",
     "PESO_NORM": 0.017126904375840152,
@@ -47575,8 +47575,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9291247,
-    "LON": -43.0109622,
+    "LAT": -22.9495009,
+    "LON": -43.0330325,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Av Romanda Goncalves,Prof",
     "PESO_NORM": 0.006463540111228516,
@@ -47663,8 +47663,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9516235,
-    "LON": -43.0231529,
+    "LAT": -22.9522787,
+    "LON": -43.0263995,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R 57 (Maravista)",
     "PESO_NORM": 0.0008079425139035645,
@@ -47707,8 +47707,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9475559,
-    "LON": -43.0328077,
+    "LAT": -22.9452535,
+    "LON": -43.0354098,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Alice Picanco,Prfa",
     "PESO_NORM": 0.002203479583373358,
@@ -47795,8 +47795,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9438414,
-    "LON": -43.0465389,
+    "LAT": -22.9420557,
+    "LON": -43.0470425,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Antonio,Sto",
     "PESO_NORM": 0.0013955370694697933,
@@ -47839,8 +47839,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9415987,
-    "LON": -43.0512606,
+    "LAT": -22.9409818,
+    "LON": -43.0482177,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Delfina De Jesus",
     "PESO_NORM": 0.000244831064819262,
@@ -48114,8 +48114,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9619279,
-    "LON": -43.0343226,
+    "LAT": -22.9580467,
+    "LON": -43.0306051,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Scylla Souza Ribeiro",
     "PESO_NORM": 0.028094364785942735,
@@ -48224,8 +48224,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9262874,
-    "LON": -43.1196726,
+    "LAT": -22.9352598,
+    "LON": -43.1088213,
     "BAIRRO": "Jurujuba",
     "NOME DO LOGRADOURO": "Av Carlos Ermelindo Marins",
     "PESO_NORM": 0.004235577421373232,
@@ -48356,8 +48356,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9463459,
-    "LON": -43.031776,
+    "LAT": -22.9440068,
+    "LON": -43.0302845,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Av Central Ewerton Xavier",
     "PESO_NORM": 0.002849833594496209,
@@ -48367,8 +48367,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9291247,
-    "LON": -43.0109622,
+    "LAT": -22.9495009,
+    "LON": -43.0330325,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Av Romanda Goncalves,Prof",
     "PESO_NORM": 0.0018925441555360015,
@@ -48433,8 +48433,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9400415,
-    "LON": -43.0287609,
+    "LAT": -22.9441582,
+    "LON": -43.0222791,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Adalgisa Monteiro",
     "PESO_NORM": 0.004100920311239531,
@@ -48455,8 +48455,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9377739,
-    "LON": -43.0289736,
+    "LAT": -22.9397148,
+    "LON": -43.0317903,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Amaro,Sto",
     "PESO_NORM": 0.001126222898168605,
@@ -48466,8 +48466,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9419953,
-    "LON": -43.0266318,
+    "LAT": -22.9396642,
+    "LON": -43.0307206,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Angeolina Petropolis,Prfa",
     "PESO_NORM": 0.0009303580463131955,
@@ -48543,8 +48543,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9387688,
-    "LON": -43.0290198,
+    "LAT": -22.9409049,
+    "LON": -43.0304662,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Augusto Vieira Jacques",
     "PESO_NORM": 0.0035500504398792987,
@@ -48939,8 +48939,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8800655,
-    "LON": -43.0334992,
+    "LAT": -22.8779281,
+    "LON": -43.0324799,
     "BAIRRO": "Maria Paula",
     "NOME DO LOGRADOURO": "Av Portugal",
     "PESO_NORM": 0.0043310614876865315,
@@ -49203,8 +49203,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8974988,
-    "LON": -43.1041356,
+    "LAT": -22.8980468,
+    "LON": -43.1040654,
     "BAIRRO": "Pe Pequeno",
     "NOME DO LOGRADOURO": "R Mangaratiba",
     "PESO_NORM": 0.0012976046435420885,
@@ -49412,8 +49412,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.951066,
-    "LON": -43.0965456,
+    "LAT": -22.9530207,
+    "LON": -43.0789149,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Acurcio Torres,Dr",
     "PESO_NORM": 0.020567122155538246,
@@ -49445,8 +49445,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9349444,
-    "LON": -43.0795603,
+    "LAT": -22.9348597,
+    "LON": -43.0786171,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Praia Piratininga,De",
     "PESO_NORM": 0.03698367781755679,
@@ -49467,8 +49467,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9534122,
-    "LON": -43.095211,
+    "LAT": -22.9549591,
+    "LON": -43.0796227,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Tamandare,Alm",
     "PESO_NORM": 0.010019711254278977,
@@ -49720,8 +49720,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9360592,
-    "LON": -43.0710517,
+    "LAT": -22.9363268,
+    "LON": -43.0738603,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Dr. Waldir Costa",
     "PESO_NORM": 0.005547871928804476,
@@ -50193,8 +50193,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9390853,
-    "LON": -43.0790491,
+    "LAT": -22.9377986,
+    "LON": -43.0775463,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Planeta Terra",
     "PESO_NORM": 0.0025707261806022508,
@@ -50259,8 +50259,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9236743,
-    "LON": -43.0924413,
+    "LAT": -22.9572203,
+    "LON": -43.0710521,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Raul Albuquerque,Mal",
     "PESO_NORM": 0.019248618316090375,
@@ -50435,8 +50435,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8822597,
-    "LON": -43.122269,
+    "LAT": -22.8833805,
+    "LON": -43.1245496,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Clara,Sta",
     "PESO_NORM": 0.0007834594074216383,
@@ -50446,8 +50446,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.884357,
-    "LON": -43.0602274,
+    "LAT": -22.8755931,
+    "LON": -43.0757239,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Jose,Sao",
     "PESO_NORM": 0.001493469495397498,
@@ -50820,8 +50820,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8967903,
-    "LON": -43.1066649,
+    "LAT": -22.896809,
+    "LON": -43.1068657,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Gastao Goncalves",
     "PESO_NORM": 0.00030873197273708936,
@@ -51029,8 +51029,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8989343,
-    "LON": -43.1029622,
+    "LAT": -22.8992726,
+    "LON": -43.1027107,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Rosa,Sta",
     "PESO_NORM": 0.092318526610769,
@@ -51040,8 +51040,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8989343,
-    "LON": -43.1029622,
+    "LAT": -22.8992726,
+    "LON": -43.1027107,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Santa Rosa",
     "PESO_NORM": 0.0020076147315179482,
@@ -51051,8 +51051,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9002489,
-    "LON": -43.1006787,
+    "LAT": -22.8986462,
+    "LON": -43.0979376,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Sardinha,Dr",
     "PESO_NORM": 0.09165242685185296,
@@ -51117,8 +51117,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8992726,
-    "LON": -43.1027107,
+    "LAT": -22.8989343,
+    "LON": -43.1029622,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "Rua Santa Rosa",
     "PESO_NORM": 0.005085296292292527,
@@ -51315,8 +51315,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9452931,
-    "LON": -43.0516493,
+    "LAT": -22.9430512,
+    "LON": -43.0520695,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "Av Antonio,Sto",
     "PESO_NORM": 0.0014689863889155719,
@@ -51458,8 +51458,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9386098,
-    "LON": -43.0421533,
+    "LAT": -22.9356727,
+    "LON": -43.0423697,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Carlos Vilhena,Jorn",
     "PESO_NORM": 0.003273391361116639,
@@ -51502,8 +51502,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9384586,
-    "LON": -43.0431484,
+    "LAT": -22.9388537,
+    "LON": -43.0433935,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Eduardo,Sto",
     "PESO_NORM": 0.001958648518554096,
@@ -51612,8 +51612,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9424421,
-    "LON": -43.0486922,
+    "LAT": -22.9408103,
+    "LON": -43.0491346,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Madri",
     "PESO_NORM": 0.0023014120093010626,
@@ -51711,8 +51711,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8993848,
-    "LON": -43.1258877,
+    "LAT": -22.9003384,
+    "LON": -43.1281918,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R General Andrade Neves",
     "PESO_NORM": 0.013159669611619799,
@@ -51755,8 +51755,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9007406,
-    "LON": -43.1307385,
+    "LAT": -22.8785663,
+    "LON": -43.0919916,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R Osorio,Gal",
     "PESO_NORM": 0.0037948815046985607,
@@ -51766,8 +51766,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9012655,
-    "LON": -43.1314786,
+    "LAT": -22.902966,
+    "LON": -43.1304111,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R Passo Da Patria",
     "PESO_NORM": 0.00296845884822516,
@@ -51788,8 +51788,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8991651,
-    "LON": -43.1269827,
+    "LAT": -22.8991768,
+    "LON": -43.1269836,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "Tv Manoel Continentino",
     "PESO_NORM": 0.0009303580463131955,
@@ -51810,8 +51810,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9166715,
-    "LON": -43.0947105,
+    "LAT": -22.9177993,
+    "LON": -43.0943698,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Av Quintino Bocaiuva",
     "PESO_NORM": 0.03281018460863421,
@@ -51920,8 +51920,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9181,
-    "LON": -43.0890118,
+    "LAT": -22.920045,
+    "LON": -43.0884586,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Americo Froes,Cel",
     "PESO_NORM": 0.004847655083421387,
@@ -52041,8 +52041,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9145213,
-    "LON": -43.083353,
+    "LAT": -22.9132565,
+    "LON": -43.0842457,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Guaianazes",
     "PESO_NORM": 0.00014329472561741763,
@@ -52162,8 +52162,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.916819,
-    "LON": -43.0932566,
+    "LAT": -22.9218597,
+    "LON": -43.0917497,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Rondon,Gal",
     "PESO_NORM": 0.0022048800170641238,
@@ -52195,8 +52195,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9160269,
-    "LON": -43.0871367,
+    "LAT": -22.9142058,
+    "LON": -43.088146,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Tapajos",
     "PESO_NORM": 0.0007100100879758597,
@@ -52228,8 +52228,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9169534,
-    "LON": -43.0903161,
+    "LAT": -22.9197132,
+    "LON": -43.0897417,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Tupinambas",
     "PESO_NORM": 0.00930850401584547,
@@ -52382,8 +52382,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8824001,
-    "LON": -43.1104387,
+    "LAT": -22.8839799,
+    "LON": -43.1098375,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "Travessa Luiz Paulino",
     "PESO_NORM": 0.0007344931944577859,
@@ -52448,8 +52448,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9262679,
-    "LON": -43.010366,
+    "LAT": -22.931938,
+    "LON": -43.0184546,
     "BAIRRO": "Serra Grande",
     "NOME DO LOGRADOURO": "Av Central Ewerton Xavier",
     "PESO_NORM": 0.008647272600237812,
@@ -52492,8 +52492,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9291247,
-    "LON": -43.0109622,
+    "LAT": -22.9495009,
+    "LON": -43.0330325,
     "BAIRRO": "Serra Grande",
     "NOME DO LOGRADOURO": "Av Romanda Goncalves,Prof",
     "PESO_NORM": 0.004089457369750907,
@@ -53372,8 +53372,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9058627,
-    "LON": -43.0955385,
+    "LAT": -22.9068976,
+    "LON": -43.0970423,
     "BAIRRO": "Vital Brasil",
     "NOME DO LOGRADOURO": "R Jose Botelho,Mto",
     "PESO_NORM": 0.009647812940267838,
@@ -53548,8 +53548,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9051133,
-    "LON": -43.0547163,
+    "LAT": -22.9061493,
+    "LON": -43.0597318,
     "BAIRRO": "Badu",
     "NOME DO LOGRADOURO": "R Joao Baptista Da Costa",
     "PESO_NORM": 0.014336466528354923,
@@ -53680,8 +53680,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8829234,
-    "LON": -43.0298674,
+    "LAT": -22.8821929,
+    "LON": -43.0302155,
     "BAIRRO": "Baldeador",
     "NOME DO LOGRADOURO": "R C (Vila Maria)",
     "PESO_NORM": 0.00044069591667467156,
@@ -53801,8 +53801,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8725664,
-    "LON": -43.1051247,
+    "LAT": -22.874297,
+    "LON": -43.1067873,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "R Benjamin Constant",
     "PESO_NORM": 0.009984737650814781,
@@ -53878,8 +53878,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8613939,
-    "LON": -43.1029199,
+    "LAT": -22.859218,
+    "LON": -43.1008511,
     "BAIRRO": "Barreto",
     "NOME DO LOGRADOURO": "R General Castrioto",
     "PESO_NORM": 0.007581468500167642,
@@ -54153,8 +54153,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9087752,
-    "LON": -43.0759713,
+    "LAT": -22.9118776,
+    "LON": -43.0813889,
     "BAIRRO": "Cachoeira",
     "NOME DO LOGRADOURO": "R Albino Pereira",
     "PESO_NORM": 0.0020320978379998744,
@@ -54450,8 +54450,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9578237,
-    "LON": -43.0637717,
+    "LAT": -22.9584027,
+    "LON": -43.0640172,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "R Aloisio Costa, Ver.",
     "PESO_NORM": 0.007362223701642168,
@@ -54703,8 +54703,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9558669,
-    "LON": -43.0630278,
+    "LAT": -22.9553408,
+    "LON": -43.0635666,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "R Luiz Pereira Dos Santos",
     "PESO_NORM": 0.007222516412168228,
@@ -54714,8 +54714,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9566833,
-    "LON": -43.0534079,
+    "LAT": -22.9591961,
+    "LON": -43.0529487,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "R Marcos Otavio Valadao",
     "PESO_NORM": 0.006855269814939335,
@@ -54857,8 +54857,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9597407,
-    "LON": -43.058335,
+    "LAT": -22.9590147,
+    "LON": -43.0585604,
     "BAIRRO": "Camboinhas",
     "NOME DO LOGRADOURO": "Rua Jose Lobo De Medeiros",
     "PESO_NORM": 0.007100100879758597,
@@ -54989,8 +54989,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8880928,
-    "LON": -43.0773485,
+    "LAT": -22.8878531,
+    "LON": -43.0716521,
     "BAIRRO": "Caramujo",
     "NOME DO LOGRADOURO": "Av Jeronimo Affonso",
     "PESO_NORM": 0.0002448310403361555,
@@ -55066,8 +55066,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8851934,
-    "LON": -43.1229108,
+    "LAT": -22.8853495,
+    "LON": -43.1237227,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Av Feliciano Sodre",
     "PESO_NORM": 0.0018239914818697148,
@@ -55077,8 +55077,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8870683,
-    "LON": -43.1247034,
+    "LAT": -22.8862501,
+    "LON": -43.124919,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "Av Visconde Do Rio Branco",
     "PESO_NORM": 0.20788242903545195,
@@ -55220,8 +55220,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.888006,
-    "LON": -43.1203311,
+    "LAT": -22.93902,
+    "LON": -43.0786696,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Caxias, Mq De",
     "PESO_NORM": 0.2550758837926094,
@@ -55275,8 +55275,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8951256,
-    "LON": -43.1136555,
+    "LAT": -22.895494,
+    "LON": -43.113102,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Euzebio De Queiros",
     "PESO_NORM": 0.000489662129638524,
@@ -55308,8 +55308,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8861948,
-    "LON": -43.1235276,
+    "LAT": -22.8861769,
+    "LON": -43.1235326,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Froes Da Cruz,Dr",
     "PESO_NORM": 0.000964301474105951,
@@ -55330,8 +55330,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8925468,
-    "LON": -43.114287,
+    "LAT": -22.8927114,
+    "LON": -43.118026,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Gomes Machado,Cel",
     "PESO_NORM": 0.004604756935375766,
@@ -55385,8 +55385,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8931908,
-    "LON": -43.1197532,
+    "LAT": -22.892319,
+    "LON": -43.1199055,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Luiz Leopoldo Fernandes Pinheiro",
     "PESO_NORM": 0.015091203310093119,
@@ -55407,8 +55407,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.889644,
-    "LON": -43.1197662,
+    "LAT": -22.8898672,
+    "LON": -43.1221924,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Marechal Deodoro",
     "PESO_NORM": 0.003584822914623745,
@@ -55528,8 +55528,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8893437,
-    "LON": -43.1191881,
+    "LAT": -22.8848794,
+    "LON": -43.1200366,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Sepetiba, Vsc",
     "PESO_NORM": 0.012173389824206767,
@@ -55550,8 +55550,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8957904,
-    "LON": -43.1225196,
+    "LAT": -22.8969027,
+    "LON": -43.1233209,
     "BAIRRO": "Centro",
     "NOME DO LOGRADOURO": "R Teffe,Alm",
     "PESO_NORM": 0.00608405196075866,
@@ -55792,8 +55792,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9333944,
-    "LON": -43.099434,
+    "LAT": -22.9310591,
+    "LON": -43.0973367,
     "BAIRRO": "Charitas",
     "NOME DO LOGRADOURO": "R Luis Otavio,Trov",
     "PESO_NORM": 0.00244831064819262,
@@ -55836,8 +55836,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9236743,
-    "LON": -43.0924413,
+    "LAT": -22.9572203,
+    "LON": -43.0710521,
     "BAIRRO": "Charitas",
     "NOME DO LOGRADOURO": "R Raul De Albuquerque,Mal",
     "PESO_NORM": 0.011311196296389695,
@@ -55935,8 +55935,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9241557,
-    "LON": -43.0073766,
+    "LAT": -22.9148161,
+    "LON": -42.9969098,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "Av Central Ewerton Xavier",
     "PESO_NORM": 0.003273391361116639,
@@ -55946,8 +55946,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9348477,
-    "LON": -43.009091,
+    "LAT": -22.9343696,
+    "LON": -43.0088573,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "Av Irene Lopes Sodre",
     "PESO_NORM": 0.0034276349074696677,
@@ -56243,8 +56243,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9409392,
-    "LON": -43.0134672,
+    "LAT": -22.940993,
+    "LON": -43.0121663,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "R Das Aroeiras",
     "PESO_NORM": 0.0008569087268674169,
@@ -56276,8 +56276,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9438376,
-    "LON": -43.0160709,
+    "LAT": -22.9440581,
+    "LON": -43.0146999,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "R Dr. Renato Pereira Machado",
     "PESO_NORM": 0.0006610438750120073,
@@ -56551,8 +56551,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9389987,
-    "LON": -43.0682467,
+    "LAT": -22.8842889,
+    "LON": -43.0819017,
     "BAIRRO": "Engenho Do Mato",
     "NOME DO LOGRADOURO": "R Sebastiao,Sao",
     "PESO_NORM": 0.007330242080688703,
@@ -56760,8 +56760,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8793856,
-    "LON": -43.0929542,
+    "LAT": -22.8814518,
+    "LON": -43.0803344,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "Al Sao Boaventura",
     "PESO_NORM": 0.07203663577958282,
@@ -56793,8 +56793,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8793856,
-    "LON": -43.0929542,
+    "LAT": -22.8809345,
+    "LON": -43.0951368,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R 1 (Al S Boaventura 1149)",
     "PESO_NORM": 0.0016281265810480922,
@@ -57002,8 +57002,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9016934,
-    "LON": -43.0687541,
+    "LAT": -22.902251,
+    "LON": -43.0680528,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Januario,Sao",
     "PESO_NORM": 0.0062358470985310705,
@@ -57046,8 +57046,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8820354,
-    "LON": -43.0858595,
+    "LAT": -22.8872249,
+    "LON": -43.0869171,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Lima Castro,Des",
     "PESO_NORM": 0.04278792498761646,
@@ -57079,8 +57079,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8802422,
-    "LON": -43.0958075,
+    "LAT": -22.879383,
+    "LON": -43.0957769,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Manoel Areal",
     "PESO_NORM": 0.000979324259277048,
@@ -57167,8 +57167,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8757908,
-    "LON": -43.0806746,
+    "LAT": -22.8802143,
+    "LON": -43.0822274,
     "BAIRRO": "Fonseca",
     "NOME DO LOGRADOURO": "R Riodades",
     "PESO_NORM": 0.008749124134952505,
@@ -57519,8 +57519,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9038927,
-    "LON": -43.1060629,
+    "LAT": -22.8997433,
+    "LON": -43.1104441,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "Av Roberto Silveira",
     "PESO_NORM": 0.08395514468893851,
@@ -57541,8 +57541,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9005447,
-    "LON": -43.1106226,
+    "LAT": -22.9040362,
+    "LON": -43.1145257,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Alvares De Azevedo",
     "PESO_NORM": 0.32337275191504583,
@@ -57563,8 +57563,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031597,
-    "LON": -43.1145477,
+    "LAT": -22.9040819,
+    "LON": -43.1136244,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Ator Paulo Gustavo",
     "PESO_NORM": 0.18101605776572566,
@@ -57618,8 +57618,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9068698,
-    "LON": -43.0984045,
+    "LAT": -22.9065119,
+    "LON": -43.0986567,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Dom Bosco",
     "PESO_NORM": 0.007805214370921178,
@@ -57629,8 +57629,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9018743,
-    "LON": -43.1031045,
+    "LAT": -22.9051376,
+    "LON": -43.1066589,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Domingues De Sa",
     "PESO_NORM": 0.11441162178903908,
@@ -57662,8 +57662,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9033495,
-    "LON": -43.1005208,
+    "LAT": -22.9009808,
+    "LON": -43.1026141,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Geraldo Martins,Dr",
     "PESO_NORM": 0.0022108245153179356,
@@ -57728,8 +57728,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9109594,
-    "LON": -43.1039171,
+    "LAT": -22.9106116,
+    "LON": -43.1026655,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Joaquim Tavora",
     "PESO_NORM": 0.13945007037345414,
@@ -57761,8 +57761,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9066843,
-    "LON": -43.1119016,
+    "LAT": -22.9053147,
+    "LON": -43.1103549,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Lopes Trovao",
     "PESO_NORM": 0.062292469549272256,
@@ -57794,8 +57794,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9075401,
-    "LON": -43.1061414,
+    "LAT": -22.9100522,
+    "LON": -43.1088653,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Mariz E Barros",
     "PESO_NORM": 0.24336526955844526,
@@ -57805,8 +57805,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9025796,
-    "LON": -43.1095073,
+    "LAT": -22.9010373,
+    "LON": -43.1111457,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Mem De Sa",
     "PESO_NORM": 0.1386035075463421,
@@ -57827,8 +57827,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9007458,
-    "LON": -43.1128918,
+    "LAT": -22.9013925,
+    "LON": -43.1135893,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Miguel De Frias",
     "PESO_NORM": 0.15366315139768683,
@@ -57893,8 +57893,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9081305,
-    "LON": -43.099389,
+    "LAT": -22.9072474,
+    "LON": -43.1003859,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Otavio Kelly,Min",
     "PESO_NORM": 0.14057668115747873,
@@ -57904,8 +57904,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9031597,
-    "LON": -43.1145477,
+    "LAT": -22.8994394,
+    "LON": -43.1084094,
     "BAIRRO": "Icarai",
     "NOME DO LOGRADOURO": "R Paulo Cesar,Dr",
     "PESO_NORM": 0.10030341978253622,
@@ -58212,8 +58212,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9008874,
-    "LON": -43.1213684,
+    "LAT": -22.8999738,
+    "LON": -43.1191141,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Araujo Pimenta,Dr",
     "PESO_NORM": 0.0017066193224967215,
@@ -58267,8 +58267,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9005396,
-    "LON": -43.1195086,
+    "LAT": -22.8998146,
+    "LON": -43.1144164,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Fagundes Varela",
     "PESO_NORM": 0.03946236103246178,
@@ -58300,8 +58300,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9036848,
-    "LON": -43.1214959,
+    "LAT": -22.9028494,
+    "LON": -43.1206545,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Justina Bulhoes",
     "PESO_NORM": 0.015510047956300246,
@@ -58311,8 +58311,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8741031,
-    "LON": -43.0487813,
+    "LAT": -22.8680533,
+    "LON": -43.0936242,
     "BAIRRO": "Inga",
     "NOME DO LOGRADOURO": "R Moraes,Vsc De",
     "PESO_NORM": 0.013346965523105173,
@@ -58421,8 +58421,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9718706,
-    "LON": -43.0336123,
+    "LAT": -22.9722594,
+    "LON": -43.0302955,
     "BAIRRO": "Itacoatiara",
     "NOME DO LOGRADOURO": "R Das Camelias",
     "PESO_NORM": 0.0031215960764455902,
@@ -58597,8 +58597,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9512668,
-    "LON": -43.0251121,
+    "LAT": -22.952119,
+    "LON": -43.025533,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Av Irene Lopes Sodre",
     "PESO_NORM": 0.026762764443175553,
@@ -58619,8 +58619,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9291247,
-    "LON": -43.0109622,
+    "LAT": -22.9495009,
+    "LON": -43.0330325,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "Av Romanda Goncalves,Prof",
     "PESO_NORM": 0.004752170968141875,
@@ -58663,8 +58663,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9396921,
-    "LON": -43.0498156,
+    "LAT": -22.9387176,
+    "LON": -43.0481725,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R 2 (Uba Piratininga)",
     "PESO_NORM": 0.004529374699156347,
@@ -58685,8 +58685,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9420557,
-    "LON": -43.0470425,
+    "LAT": -22.9438414,
+    "LON": -43.0465389,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R 3 (Ac Est Itaipu 900)",
     "PESO_NORM": 0.0017138174537348339,
@@ -58729,8 +58729,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9387176,
-    "LON": -43.0481725,
+    "LAT": -22.939509,
+    "LON": -43.0493195,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R 4 (Uba Piratininga)",
     "PESO_NORM": 0.002325895115782989,
@@ -59125,8 +59125,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9582388,
-    "LON": -43.0308442,
+    "LAT": -22.9558337,
+    "LON": -43.0327436,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Roberto Parago",
     "PESO_NORM": 0.007467347501470597,
@@ -59202,8 +59202,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9619279,
-    "LON": -43.0343226,
+    "LAT": -22.9580467,
+    "LON": -43.0306051,
     "BAIRRO": "Itaipu",
     "NOME DO LOGRADOURO": "R Scylla Souza Ribeiro",
     "PESO_NORM": 0.010669737755857223,
@@ -59466,8 +59466,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9463459,
-    "LON": -43.031776,
+    "LAT": -22.9440068,
+    "LON": -43.0302845,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Av Central Ewerton Xavier",
     "PESO_NORM": 0.006214990062534649,
@@ -59477,8 +59477,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9291247,
-    "LON": -43.0109622,
+    "LAT": -22.9495009,
+    "LON": -43.0330325,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "Av Romanda Goncalves,Prof",
     "PESO_NORM": 0.0023454816009685297,
@@ -59532,8 +59532,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9400415,
-    "LON": -43.0287609,
+    "LAT": -22.9441582,
+    "LON": -43.0222791,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Adalgisa Monteiro",
     "PESO_NORM": 0.009670881314924813,
@@ -59554,8 +59554,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9377739,
-    "LON": -43.0289736,
+    "LAT": -22.9397148,
+    "LON": -43.0317903,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Amaro,Sto",
     "PESO_NORM": 0.004541616227914202,
@@ -59565,8 +59565,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9419953,
-    "LON": -43.0266318,
+    "LAT": -22.9396642,
+    "LON": -43.0307206,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Angeolina Petropolis,Prfa",
     "PESO_NORM": 0.003064118605310574,
@@ -59631,8 +59631,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9387688,
-    "LON": -43.0290198,
+    "LAT": -22.9409049,
+    "LON": -43.0304662,
     "BAIRRO": "Maravista",
     "NOME DO LOGRADOURO": "R Augusto Vieira Jacques",
     "PESO_NORM": 0.0055086989584333945,
@@ -60027,8 +60027,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8800655,
-    "LON": -43.0334992,
+    "LAT": -22.8779281,
+    "LON": -43.0324799,
     "BAIRRO": "Maria Paula",
     "NOME DO LOGRADOURO": "Av Portugal",
     "PESO_NORM": 0.0033639788306166593,
@@ -60467,8 +60467,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8703057,
-    "LON": -43.1147864,
+    "LAT": -22.8679256,
+    "LON": -43.1148823,
     "BAIRRO": "Pendotiba",
     "NOME DO LOGRADOURO": "R Cruzeiro,Do",
     "PESO_NORM": 0.001113981344927642,
@@ -60522,8 +60522,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.951066,
-    "LON": -43.0965456,
+    "LAT": -22.9530207,
+    "LON": -43.0789149,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Acurcio Torres,Dr",
     "PESO_NORM": 0.00940151288905966,
@@ -60566,8 +60566,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9349444,
-    "LON": -43.0795603,
+    "LAT": -22.9348597,
+    "LON": -43.0786171,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Praia Piratininga,De",
     "PESO_NORM": 0.05252430701008594,
@@ -60588,8 +60588,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9534122,
-    "LON": -43.095211,
+    "LAT": -22.9549591,
+    "LON": -43.0796227,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Av Tamandare,Alm",
     "PESO_NORM": 0.01236396877337273,
@@ -60610,8 +60610,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9540582,
-    "LON": -43.08413,
+    "LAT": -22.9499821,
+    "LON": -43.0578774,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "Pr Piratininga, De",
     "PESO_NORM": 0.0058759455556622875,
@@ -60830,8 +60830,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9390853,
-    "LON": -43.0790491,
+    "LAT": -22.9377986,
+    "LON": -43.0775463,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Catarina Ferreira",
     "PESO_NORM": 0.0018851991991083172,
@@ -60852,8 +60852,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9347501,
-    "LON": -43.0778195,
+    "LAT": -22.9370263,
+    "LON": -43.0774378,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Cruzeiro Do Sul",
     "PESO_NORM": 0.00122415532409631,
@@ -60907,8 +60907,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9360592,
-    "LON": -43.0710517,
+    "LAT": -22.9363268,
+    "LON": -43.0738603,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Dr. Waldir Costa",
     "PESO_NORM": 0.011837581984011317,
@@ -61325,8 +61325,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9390853,
-    "LON": -43.0790491,
+    "LAT": -22.9377986,
+    "LON": -43.0775463,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Planeta Terra",
     "PESO_NORM": 0.0006133018173722513,
@@ -61402,8 +61402,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9236743,
-    "LON": -43.0924413,
+    "LAT": -22.9572203,
+    "LON": -43.0710521,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Raul Albuquerque,Mal",
     "PESO_NORM": 0.02681398995720556,
@@ -61413,8 +61413,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.943178,
-    "LON": -43.0603958,
+    "LAT": -22.9430892,
+    "LON": -43.0604022,
     "BAIRRO": "Piratininga",
     "NOME DO LOGRADOURO": "R Rodolfo Mayer",
     "PESO_NORM": 0.00036724659722889297,
@@ -61523,8 +61523,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8830631,
-    "LON": -43.1262493,
+    "LAT": -22.8843723,
+    "LON": -43.1268992,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "Av Conde Pereira Carneiro",
     "PESO_NORM": 0.0008569087268674169,
@@ -61556,8 +61556,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8842087,
-    "LON": -43.1273891,
+    "LAT": -22.8842459,
+    "LON": -43.1274094,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Amapa",
     "PESO_NORM": 0.0010527735787228265,
@@ -61600,8 +61600,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8832415,
-    "LON": -43.1258027,
+    "LAT": -22.883235,
+    "LON": -43.1258128,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Minas Gerais",
     "PESO_NORM": 0.000979324259277048,
@@ -61611,8 +61611,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8740591,
-    "LON": -43.0970003,
+    "LAT": -22.8836882,
+    "LON": -43.1254389,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Miranda,Cel",
     "PESO_NORM": 0.0017627836666986862,
@@ -61622,12 +61622,12 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8812366,
-    "LON": -43.1282056,
+    "LAT": -22.8824528,
+    "LON": -43.125071,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Oirthon Dantas",
     "PESO_NORM": 0.00034276349074696677,
-    "NIVEL_GEO": "bairro",
+    "NIVEL_GEO": "endereco",
     "ANO DO PAGAMENTO DO ITBI": 2025,
     "QUANTIDADE DE TRANSAÇÕES": 1,
     "valor_medio": null
@@ -61644,8 +61644,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8826211,
-    "LON": -43.1261209,
+    "LAT": -22.8826109,
+    "LON": -43.1261439,
     "BAIRRO": "Ponta Da Areia",
     "NOME DO LOGRADOURO": "R Silvestre Monaco",
     "PESO_NORM": 0.0031828038426504057,
@@ -61996,8 +61996,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8967903,
-    "LON": -43.1066649,
+    "LAT": -22.896809,
+    "LON": -43.1068657,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Gastao Goncalves",
     "PESO_NORM": 0.002485035307915509,
@@ -62227,8 +62227,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8989343,
-    "LON": -43.1029622,
+    "LAT": -22.8992726,
+    "LON": -43.1027107,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Rosa,Sta",
     "PESO_NORM": 0.08267653257041871,
@@ -62238,8 +62238,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9002489,
-    "LON": -43.1006787,
+    "LAT": -22.8986462,
+    "LON": -43.0979376,
     "BAIRRO": "Santa Rosa",
     "NOME DO LOGRADOURO": "R Sardinha,Dr",
     "PESO_NORM": 0.09007061689750213,
@@ -62491,8 +62491,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9452931,
-    "LON": -43.0516493,
+    "LAT": -22.9430512,
+    "LON": -43.0520695,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "Av Antonio,Sto",
     "PESO_NORM": 0.00013057820011070517,
@@ -62634,8 +62634,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9386098,
-    "LON": -43.0421533,
+    "LAT": -22.9356727,
+    "LON": -43.0423697,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Carlos Vilhena,Jorn",
     "PESO_NORM": 0.018232255082969426,
@@ -62744,8 +62744,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9429739,
-    "LON": -43.0429993,
+    "LAT": -22.9420809,
+    "LON": -43.0428929,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Germano Faber,Gov",
     "PESO_NORM": 0.002871868390329943,
@@ -62788,8 +62788,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9424421,
-    "LON": -43.0486922,
+    "LAT": -22.9408103,
+    "LON": -43.0491346,
     "BAIRRO": "Santo Antonio",
     "NOME DO LOGRADOURO": "R Madri",
     "PESO_NORM": 0.0017783965437022104,
@@ -62876,8 +62876,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8993848,
-    "LON": -43.1258877,
+    "LAT": -22.9003384,
+    "LON": -43.1281918,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R General Andrade Neves",
     "PESO_NORM": 0.009233191531996417,
@@ -62931,8 +62931,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.8741031,
-    "LON": -43.0487813,
+    "LAT": -22.8680533,
+    "LON": -43.0936242,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R Moraes,Vsc De",
     "PESO_NORM": 0.0007344931944577859,
@@ -62942,8 +62942,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9012655,
-    "LON": -43.1314786,
+    "LAT": -22.902966,
+    "LON": -43.1304111,
     "BAIRRO": "Sao Domingos",
     "NOME DO LOGRADOURO": "R Passo Da Patria",
     "PESO_NORM": 0.0052841717338195935,
@@ -62986,8 +62986,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9157582,
-    "LON": -43.0898458,
+    "LAT": -22.9136545,
+    "LON": -43.0901985,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Av Padre Natuzzi",
     "PESO_NORM": 0.0053862834260237635,
@@ -62997,8 +62997,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9166715,
-    "LON": -43.0947105,
+    "LAT": -22.9177993,
+    "LON": -43.0943698,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "Av Quintino Bocaiuva",
     "PESO_NORM": 0.10770330858898744,
@@ -63107,8 +63107,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9134307,
-    "LON": -43.0894943,
+    "LAT": -22.9152373,
+    "LON": -43.0892223,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Caiapos",
     "PESO_NORM": 0.0061207766204815495,
@@ -63162,8 +63162,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9145213,
-    "LON": -43.083353,
+    "LAT": -22.9132565,
+    "LON": -43.0842457,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Guaianazes",
     "PESO_NORM": 0.0037948815046985607,
@@ -63206,8 +63206,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9173468,
-    "LON": -43.0830083,
+    "LAT": -22.9175988,
+    "LON": -43.08309,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Helio Da Silva Carneiro",
     "PESO_NORM": 0.00296245588431307,
@@ -63338,8 +63338,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.916819,
-    "LON": -43.0932566,
+    "LAT": -22.9218597,
+    "LON": -43.0917497,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Rondon,Gal",
     "PESO_NORM": 0.04685302707718438,
@@ -63415,8 +63415,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9169534,
-    "LON": -43.0903161,
+    "LAT": -22.9197132,
+    "LON": -43.0897417,
     "BAIRRO": "Sao Francisco",
     "NOME DO LOGRADOURO": "R Tupinambas",
     "PESO_NORM": 0.005396076668616534,
@@ -63492,8 +63492,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9063864,
-    "LON": -43.1301673,
+    "LAT": -22.8947891,
+    "LON": -43.0713469,
     "BAIRRO": "Sao Lourenco",
     "NOME DO LOGRADOURO": "R Antonio,Sto",
     "PESO_NORM": 0.00042845436343370846,
@@ -63657,8 +63657,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9262679,
-    "LON": -43.010366,
+    "LAT": -22.931938,
+    "LON": -43.0184546,
     "BAIRRO": "Serra Grande",
     "NOME DO LOGRADOURO": "Av Central Ewerton Xavier",
     "PESO_NORM": 0.009382416066003757,
@@ -63723,8 +63723,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9291247,
-    "LON": -43.0109622,
+    "LAT": -22.9495009,
+    "LON": -43.0330325,
     "BAIRRO": "Serra Grande",
     "NOME DO LOGRADOURO": "Av Romanda Goncalves,Prof",
     "PESO_NORM": 0.0007173550199204375,
@@ -64647,8 +64647,8 @@
     "valor_medio": null
   },
   {
-    "LAT": -22.9058627,
-    "LON": -43.0955385,
+    "LAT": -22.9068976,
+    "LON": -43.0970423,
     "BAIRRO": "Vital Brasil",
     "NOME DO LOGRADOURO": "R Jose Botelho,Mto",
     "PESO_NORM": 0.021611238140562466,
